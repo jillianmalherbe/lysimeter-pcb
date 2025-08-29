@@ -1,0 +1,24 @@
+Add Pin To Net: Unknown Pin: Pin C17-1
+Add Pin To Net: Unknown Pin: Pin C17-2
+Add Pin To Net: Unknown Pin: Pin C18-1
+Add Pin To Net: Unknown Pin: Pin C18-2
+Add Pin To Net: Unknown Pin: Pin C19-1
+Add Pin To Net: Unknown Pin: Pin C19-2
+Add Pin To Net: Unknown Pin: Pin C20-1
+Add Pin To Net: Unknown Pin: Pin C20-2
+Add Pin To Net: Unknown Pin: Pin L4-1
+Add Pin To Net: Unknown Pin: Pin L4-2
+Added Pin To Net: NetName=+3V3 Pin=P1-1
+Add Pin To Net: Unknown Pin: Pin U2-1
+Add Pin To Net: Unknown Pin: Pin U2-2
+Add Pin To Net: Unknown Pin: Pin U2-4
+Add Pin To Net: Unknown Pin: Pin U2-5
+Add Pin To Net: Unknown Pin: Pin U2-6
+Add Pin To Net: Unknown Pin: Pin U2-7
+Add Pin To Net: Unknown Pin: Pin U2-8
+Add Class Member: Failed to add class member : Component C17 Capacitor 22µF +/-40% 16V 0805
+Add Class Member: Failed to add class member : Component C18 Capacitor 10µF +/-40% 6.3V 0402
+Add Class Member: Failed to add class member : Component C19 Capacitor 0.1 uF +/- 5% 16 V 0402
+Add Class Member: Failed to add class member : Component C20 Capacitor 22µF +/-40% 16V 0805
+Add Class Member: Failed to add class member : Component L4 RLB9012-472KL
+Add Class Member: Failed to add class member : Component U2 TPS5405DR

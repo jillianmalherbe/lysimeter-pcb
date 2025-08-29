@@ -1,0 +1,17 @@
+Change Component Footprint: Designator=Q1 Old Footprint=UNIC-TO-92-3 New Footprint=S8050-J3Y-Footprint-1
+Change Component Comment : Designator=Q1 Old Comment=S8550 New Comment=S8050-J3Y
+Change Managed Component Library Link : Designator=Q1 Old VaultGUID=A974E7B8-86B8-4B3D-8C34-56F97AD8B533 New VaultGUID=A974E7B8-86B8-4B3D-8C34-56F97AD8B533 Old ItemGUID=FAA9ECAD-F9D1-4553-8933-6902660C4BFB New ItemGUID=1be171e6-c216-4eef-a513-c4a209e4ee9e Old RevisionGUID=3ADBB4A7-D7AF-4D91-8C4D-98F4C744DC19 New RevisionGUID=eefadc63-bcab-4786-8675-947f64c28817
+Change component parameters: Designator = "Q1" ("Q1"); Footprint = "UNIC-TO-92-3"; UniqueID = "\TATXYZUN" ("\TATXYZUN")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Frequency"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Nominal Dual Supply"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Nominal Vgs"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pins"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Transistor Type"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vgs (Max)"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vgs(th) (Max) @ Id"; Value = ""; VariantName = "[No Variations]"

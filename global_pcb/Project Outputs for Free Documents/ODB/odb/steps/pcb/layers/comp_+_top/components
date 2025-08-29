@@ -1,0 +1,2430 @@
+UNITS=MM
+#
+#Component attribute names
+#
+@0 .comp_mount_type
+@1 .comp_height
+@2 .no_pop
+@3 .comp_ignore
+@4 .comp_variant_list
+@5 .placement_layer
+
+#
+#Component attribute text strings
+#
+&0 top_layer
+
+# CMP 0
+CMP 22 82.5000001 86.49999972 0 N ST2 PTH-M2D5X5 ;0=2,1=0.0000,5=0
+PRP Case/Package ''
+PRP Max_Operating_Temperature ''
+PRP Min_Operating_Temperature ''
+PRP Mounting_Technology ''
+PRP Pins '1'
+PRP RoHS_Compliant ''
+TOP 0 82.5000001 86.49999972 0 N 69 61 1
+#
+# CMP 1
+CMP 4 66.70000122 35.40000032 0 N C53 4.7_F ;0=1,1=0.0000,5=0
+PRP Artikkelnr_Noca '20030013'
+PRP Assembly ''
+PRP Author 'rsk'
+PRP Component_Class 'Capacitors'
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'N.A.'
+PRP ComponentLink2Description 'Supplier link'
+PRP ComponentLink2URL 'N.A.'
+PRP Footprint_Doc '0603'
+PRP HelpURL 'N.A.'
+PRP LatestRevisionDate '2016-08-15'
+PRP Manufacturer 'N.A.'
+PRP Manufacturer_Part_Number 'N.A.'
+PRP Note '10V'
+PRP Pad_Count '2'
+PRP Part_Number 'C0603-4µ7-10V-X7S'
+PRP Part_number_IPS '00000001779'
+PRP Part_number_Norautron 'N.A.'
+PRP PartId '100200351'
+PRP Published '2016-08-15'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'N.A.'
+PRP Supplier_Part_Number_1 '445-14258-1-ND'
+PRP Supplier_Part_Number_2 'N.A.'
+PRP Value '4.7µF'
+TOP 0 66.0250013 35.40000032 270 N 69 144 1
+TOP 1 67.37500114 35.40000032 270 N 77 38 2
+#
+# CMP 2
+CMP 4 66.70000122 34.10000038 0 N C52 10_F ;0=1,1=0.0000,5=0
+PRP Artikkelnr_Noca '20039234'
+PRP Assembly ''
+PRP Author 'rsk'
+PRP Component_Class 'Capacitors'
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'N.A.'
+PRP ComponentLink2Description 'Supplier link'
+PRP ComponentLink2URL 'N.A.'
+PRP Footprint_Doc '0603'
+PRP HelpURL 'N.A.'
+PRP LatestRevisionDate '2011-01-17'
+PRP Manufacturer 'N.A.'
+PRP Manufacturer_Part_Number 'N.A.'
+PRP Note '6.3V'
+PRP Pad_Count '2'
+PRP Part_Number 'C0603-10µ'
+PRP Part_number_IPS '00000007785'
+PRP Part_number_Norautron 'N.A.'
+PRP PartId '100200275'
+PRP Published '2011-01-17'
+PRP Supplier_1 'N.A.'
+PRP Supplier_2 'N.A.'
+PRP Supplier_Part_Number_1 'N.A.'
+PRP Supplier_Part_Number_2 'N.A.'
+PRP Value '10µF'
+TOP 0 66.0250013 34.10000038 270 N 69 145 1
+TOP 1 67.37500114 34.10000038 270 N 77 36 2
+#
+# CMP 3
+CMP 1 69.3625359 36.46253566 180 N C51 Capacitor_22_F_+/-40%_16V_0805 ;0=1,1=1.4500,5=0
+PRP Capacitor_Type ''
+PRP Case/Package '0805'
+PRP Max_Operating_Temperature '85°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mounting_Technology 'SMT'
+PRP Pins '2'
+PRP Ripple_Current ''
+PRP Ripple_Current_(AC) ''
+PRP RoHS_Compliant ''
+PRP Tolerance '5%'
+PRP Value '22µF'
+PRP Voltage_Rating '16V'
+TOP 0 70.26253664 36.46253566 90 N 69 142 1
+TOP 1 68.47253514 36.46253566 90 N 77 12 2
+#
+# CMP 4
+CMP 1 69.3625359 34.86253378 180 N C50 Capacitor_100_F_+/-20%_6.3V_0805 ;0=1,1=1.4500,5=0
+PRP Capacitor_Type ''
+PRP Case/Package '0805'
+PRP Max_Operating_Temperature '85°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mounting_Technology 'SMT'
+PRP Pins '2'
+PRP Ripple_Current ''
+PRP Ripple_Current_(AC) ''
+PRP RoHS_Compliant ''
+PRP Tolerance '10%'
+PRP Value '100µF'
+PRP Voltage_Rating '6.3V'
+TOP 0 70.26253664 34.86253378 90 N 69 146 1
+TOP 1 68.47253514 34.86253378 90 N 77 39 2
+#
+# CMP 5
+CMP 5 28.59999868 18.49999856 270 N C49 Capacitor_100_nF_+/-10%_50_V_0805 ;0=1,1=0.9500,5=0
+PRP Capacitor_Type 'Ceramic'
+PRP Case/Package '0805'
+PRP Max_Operating_Temperature '125°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mounting_Technology 'SM'
+PRP Pins '2'
+PRP Ripple_Current ''
+PRP Ripple_Current_(AC) ''
+PRP RoHS_Compliant 'True'
+PRP Tolerance '10%'
+PRP Value '100nF'
+PRP Voltage_Rating '50V'
+TOP 0 28.59999868 17.77499874 180 N 69 96 1
+TOP 1 28.59999868 19.22499838 180 N 77 26 2
+#
+# CMP 6
+CMP 4 29.99999842 18.39999876 270 N C48 4.7_F ;0=1,1=10.0000,5=0
+PRP Artikkelnr_Noca '20030013'
+PRP Assembly ''
+PRP Author 'rsk'
+PRP Component_Class 'Capacitors'
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'N.A.'
+PRP ComponentLink2Description 'Supplier link'
+PRP ComponentLink2URL 'N.A.'
+PRP Footprint_Doc '0603'
+PRP HelpURL 'N.A.'
+PRP LatestRevisionDate '2016-08-15'
+PRP Manufacturer 'N.A.'
+PRP Manufacturer_Part_Number 'N.A.'
+PRP Note '10V'
+PRP Pad_Count '2'
+PRP Part_Number 'C0603-4µ7-10V-X7S'
+PRP Part_number_IPS '00000001779'
+PRP Part_number_Norautron 'N.A.'
+PRP PartId '100200351'
+PRP Published '2016-08-15'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'N.A.'
+PRP Supplier_Part_Number_1 '445-14258-1-ND'
+PRP Supplier_Part_Number_2 'N.A.'
+PRP Value '4.7µF'
+TOP 0 29.99999842 17.72499884 180 N 69 80 1
+TOP 1 29.99999842 19.07499868 180 N 77 33 2
+#
+# CMP 7
+CMP 4 31.7999999 21.20000078 90 N C47 10_F ;0=1,1=10.0000,5=0
+PRP Artikkelnr_Noca '20039234'
+PRP Assembly ''
+PRP Author 'rsk'
+PRP Component_Class 'Capacitors'
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'N.A.'
+PRP ComponentLink2Description 'Supplier link'
+PRP ComponentLink2URL 'N.A.'
+PRP Footprint_Doc '0603'
+PRP HelpURL 'N.A.'
+PRP LatestRevisionDate '2011-01-17'
+PRP Manufacturer 'N.A.'
+PRP Manufacturer_Part_Number 'N.A.'
+PRP Note '6.3V'
+PRP Pad_Count '2'
+PRP Part_Number 'C0603-10µ'
+PRP Part_number_IPS '00000007785'
+PRP Part_number_Norautron 'N.A.'
+PRP PartId '100200275'
+PRP Published '2011-01-17'
+PRP Supplier_1 'N.A.'
+PRP Supplier_2 'N.A.'
+PRP Supplier_Part_Number_1 'N.A.'
+PRP Supplier_Part_Number_2 'N.A.'
+PRP Value '10µF'
+TOP 0 31.7999999 21.8750007 0 N 69 79 1
+TOP 1 31.7999999 20.52500086 0 N 77 28 2
+#
+# CMP 8
+CMP 1 30.31473236 21.3804373 90 N C46 Capacitor_22_F_+/-40%_16V_0805 ;0=1,1=1.4500,5=0
+PRP Capacitor_Type ''
+PRP Case/Package '0805'
+PRP Max_Operating_Temperature '85°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mounting_Technology 'SMT'
+PRP Pins '2'
+PRP Ripple_Current ''
+PRP Ripple_Current_(AC) ''
+PRP RoHS_Compliant ''
+PRP Tolerance '5%'
+PRP Value '22µF'
+PRP Voltage_Rating '16V'
+TOP 0 30.31473236 22.28043804 0 N 69 82 1
+TOP 1 30.31473236 20.49043654 0 N 77 29 2
+#
+# CMP 9
+CMP 1 28.61473068 21.37043732 90 N C45 Capacitor_100_F_+/-20%_6.3V_0805 ;0=1,1=1.4500,5=0
+PRP Capacitor_Type ''
+PRP Case/Package '0805'
+PRP Max_Operating_Temperature '85°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mounting_Technology 'SMT'
+PRP Pins '2'
+PRP Ripple_Current ''
+PRP Ripple_Current_(AC) ''
+PRP RoHS_Compliant ''
+PRP Tolerance '10%'
+PRP Value '100µF'
+PRP Voltage_Rating '6.3V'
+TOP 0 28.61473068 22.27043806 0 N 69 109 1
+TOP 1 28.61473068 20.48043656 0 N 77 24 2
+#
+# CMP 10
+CMP 5 58.89999904 51.0999994 270 N C44 Capacitor_100_nF_+/-10%_50_V_0805 ;0=1,1=0.9500,5=0
+PRP Capacitor_Type 'Ceramic'
+PRP Case/Package '0805'
+PRP Max_Operating_Temperature '125°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mounting_Technology 'SM'
+PRP Pins '2'
+PRP Ripple_Current ''
+PRP Ripple_Current_(AC) ''
+PRP RoHS_Compliant 'True'
+PRP Tolerance '10%'
+PRP Value '100nF'
+PRP Voltage_Rating '50V'
+TOP 0 58.89999904 50.37499958 180 N 69 76 1
+TOP 1 58.89999904 51.82499922 180 N 77 46 2
+#
+# CMP 11
+CMP 4 59.16253598 53.86253388 90 N C43 4.7_F ;0=1,1=10.0000,5=0
+PRP Artikkelnr_Noca '20030013'
+PRP Assembly ''
+PRP Author 'rsk'
+PRP Component_Class 'Capacitors'
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'N.A.'
+PRP ComponentLink2Description 'Supplier link'
+PRP ComponentLink2URL 'N.A.'
+PRP Footprint_Doc '0603'
+PRP HelpURL 'N.A.'
+PRP LatestRevisionDate '2016-08-15'
+PRP Manufacturer 'N.A.'
+PRP Manufacturer_Part_Number 'N.A.'
+PRP Note '10V'
+PRP Pad_Count '2'
+PRP Part_Number 'C0603-4µ7-10V-X7S'
+PRP Part_number_IPS '00000001779'
+PRP Part_number_Norautron 'N.A.'
+PRP PartId '100200351'
+PRP Published '2016-08-15'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'N.A.'
+PRP Supplier_Part_Number_1 '445-14258-1-ND'
+PRP Supplier_Part_Number_2 'N.A.'
+PRP Value '4.7µF'
+TOP 0 59.16253598 54.5375338 0 N 69 138 1
+TOP 1 59.16253598 53.18753396 0 N 77 45 2
+#
+# CMP 12
+CMP 4 57.96253584 53.8375352 90 N C42 10_F ;0=1,1=10.0000,5=0
+PRP Artikkelnr_Noca '20039234'
+PRP Assembly ''
+PRP Author 'rsk'
+PRP Component_Class 'Capacitors'
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'N.A.'
+PRP ComponentLink2Description 'Supplier link'
+PRP ComponentLink2URL 'N.A.'
+PRP Footprint_Doc '0603'
+PRP HelpURL 'N.A.'
+PRP LatestRevisionDate '2011-01-17'
+PRP Manufacturer 'N.A.'
+PRP Manufacturer_Part_Number 'N.A.'
+PRP Note '6.3V'
+PRP Pad_Count '2'
+PRP Part_Number 'C0603-10µ'
+PRP Part_number_IPS '00000007785'
+PRP Part_number_Norautron 'N.A.'
+PRP PartId '100200275'
+PRP Published '2011-01-17'
+PRP Supplier_1 'N.A.'
+PRP Supplier_2 'N.A.'
+PRP Supplier_Part_Number_1 'N.A.'
+PRP Supplier_Part_Number_2 'N.A.'
+PRP Value '10µF'
+TOP 0 57.96253584 54.51253512 0 N 69 135 1
+TOP 1 57.96253584 53.16253528 0 N 77 47 2
+#
+# CMP 13
+CMP 1 57.2999997 50.8 270 N C41 Capacitor_22_F_+/-40%_16V_0805 ;0=1,1=1.4500,5=0
+PRP Capacitor_Type ''
+PRP Case/Package '0805'
+PRP Max_Operating_Temperature '85°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mounting_Technology 'SMT'
+PRP Pins '2'
+PRP Ripple_Current ''
+PRP Ripple_Current_(AC) ''
+PRP RoHS_Compliant ''
+PRP Tolerance '5%'
+PRP Value '22µF'
+PRP Voltage_Rating '16V'
+TOP 0 57.2999997 49.89999926 180 N 69 77 1
+TOP 1 57.2999997 51.69000076 180 N 77 42 2
+#
+# CMP 14
+CMP 1 55.50000076 50.8 270 N C40 Capacitor_100_F_+/-20%_6.3V_0805 ;0=1,1=1.4500,5=0
+PRP Capacitor_Type ''
+PRP Case/Package '0805'
+PRP Max_Operating_Temperature '85°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mounting_Technology 'SMT'
+PRP Pins '2'
+PRP Ripple_Current ''
+PRP Ripple_Current_(AC) ''
+PRP RoHS_Compliant ''
+PRP Tolerance '10%'
+PRP Value '100µF'
+PRP Voltage_Rating '6.3V'
+TOP 0 55.50000076 49.89999926 180 N 69 74 1
+TOP 1 55.50000076 51.69000076 180 N 77 43 2
+#
+# CMP 15
+CMP 6 15.06253528 69.5625355 270 N C39 Capacitor_1_uF_+/-_10%_25_V_1206 ;0=1,1=1.8000,5=0
+PRP Capacitor_Type 'Ceramic'
+PRP Case/Package '1206'
+PRP Max_Operating_Temperature '125°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mounting_Technology 'SM'
+PRP Pins '2'
+PRP Ripple_Current ''
+PRP Ripple_Current_(AC) ''
+PRP RoHS_Compliant 'True'
+PRP Tolerance '10%'
+PRP Value '1µF'
+PRP Voltage_Rating '25V'
+TOP 0 15.06253528 67.78753524 180 N 69 89 1
+TOP 1 15.06253528 71.33753576 180 N 75 15 2
+#
+# CMP 16
+CMP 1 21.36253538 75.65253602 90 N C38 Capacitor_4.7_F_+/-40%_25V_0805 ;0=1,1=1.4500,5=0
+PRP Capacitor_Type ''
+PRP Case/Package '0805'
+PRP Max_Operating_Temperature '85°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mounting_Technology 'SMT'
+PRP Pins '2'
+PRP Ripple_Current ''
+PRP Ripple_Current_(AC) ''
+PRP RoHS_Compliant ''
+PRP Tolerance '20%'
+PRP Value '4.7µF'
+PRP Voltage_Rating '25V'
+TOP 0 21.36253538 76.55253676 0 N 69 84 1
+TOP 1 21.36253538 74.76253526 0 N 75 17 2
+#
+# CMP 17
+CMP 7 12.9625344 72.86253398 0 N C37 Capacitor_10_uF_+/-_10%_16_V_1206 ;0=1,1=1.8000,5=0
+PRP Capacitor_Type 'Ceramic'
+PRP Case/Package '1206'
+PRP Max_Operating_Temperature '125°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mounting_Technology 'SM'
+PRP Pins '2'
+PRP Ripple_Current ''
+PRP Ripple_Current_(AC) ''
+PRP RoHS_Compliant 'True'
+PRP Tolerance '10%'
+PRP Value '10µF'
+PRP Voltage_Rating '16V'
+TOP 0 11.56253466 72.86253398 270 N 69 91 1
+TOP 1 14.36253414 72.86253398 270 N 75 19 2
+#
+# CMP 18
+CMP 5 72.39999998 49.89999926 0 N C20 Capacitor_100_nF_+/-10%_50_V_0805 ;0=1,1=0.9500,5=0
+PRP Capacitor_Type 'Ceramic'
+PRP Case/Package '0805'
+PRP Max_Operating_Temperature '125°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mounting_Technology 'SM'
+PRP Pins '2'
+PRP Ripple_Current ''
+PRP Ripple_Current_(AC) ''
+PRP RoHS_Compliant 'True'
+PRP Tolerance '10%'
+PRP Value '100nF'
+PRP Voltage_Rating '50V'
+TOP 0 71.67500016 49.89999926 270 N 69 49 1
+TOP 1 73.1249998 49.89999926 270 N 77 22 2
+#
+# CMP 19
+CMP 5 64.79999994 47.09999978 0 N C19 Capacitor_100_nF_+/-10%_50_V_0805 ;0=1,1=0.9500,5=0
+PRP Capacitor_Type 'Ceramic'
+PRP Case/Package '0805'
+PRP Max_Operating_Temperature '125°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mounting_Technology 'SM'
+PRP Pins '2'
+PRP Ripple_Current ''
+PRP Ripple_Current_(AC) ''
+PRP RoHS_Compliant 'True'
+PRP Tolerance '10%'
+PRP Value '100nF'
+PRP Voltage_Rating '50V'
+TOP 0 64.07500012 47.09999978 270 N 69 123 1
+TOP 1 65.52499976 47.09999978 270 N 77 8 2
+#
+# CMP 20
+CMP 4 64.70000014 48.49999952 0 N C18 4.7_F ;0=1,1=10.0000,5=0
+PRP Artikkelnr_Noca '20030013'
+PRP Assembly ''
+PRP Author 'rsk'
+PRP Component_Class 'Capacitors'
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'N.A.'
+PRP ComponentLink2Description 'Supplier link'
+PRP ComponentLink2URL 'N.A.'
+PRP Footprint_Doc '0603'
+PRP HelpURL 'N.A.'
+PRP LatestRevisionDate '2016-08-15'
+PRP Manufacturer 'N.A.'
+PRP Manufacturer_Part_Number 'N.A.'
+PRP Note '10V'
+PRP Pad_Count '2'
+PRP Part_Number 'C0603-4µ7-10V-X7S'
+PRP Part_number_IPS '00000001779'
+PRP Part_number_Norautron 'N.A.'
+PRP PartId '100200351'
+PRP Published '2016-08-15'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'N.A.'
+PRP Supplier_Part_Number_1 '445-14258-1-ND'
+PRP Supplier_Part_Number_2 'N.A.'
+PRP Value '4.7µF'
+TOP 0 64.02500022 48.49999952 270 N 69 122 1
+TOP 1 65.37500006 48.49999952 270 N 77 6 2
+#
+# CMP 21
+CMP 4 64.70000014 49.69999966 0 N C17 10_F ;0=1,1=10.0000,5=0
+PRP Artikkelnr_Noca '20039234'
+PRP Assembly ''
+PRP Author 'rsk'
+PRP Component_Class 'Capacitors'
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'N.A.'
+PRP ComponentLink2Description 'Supplier link'
+PRP ComponentLink2URL 'N.A.'
+PRP Footprint_Doc '0603'
+PRP HelpURL 'N.A.'
+PRP LatestRevisionDate '2011-01-17'
+PRP Manufacturer 'N.A.'
+PRP Manufacturer_Part_Number 'N.A.'
+PRP Note '6.3V'
+PRP Pad_Count '2'
+PRP Part_Number 'C0603-10µ'
+PRP Part_number_IPS '00000007785'
+PRP Part_number_Norautron 'N.A.'
+PRP PartId '100200275'
+PRP Published '2011-01-17'
+PRP Supplier_1 'N.A.'
+PRP Supplier_2 'N.A.'
+PRP Supplier_Part_Number_1 'N.A.'
+PRP Supplier_Part_Number_2 'N.A.'
+PRP Value '10µF'
+TOP 0 64.02500022 49.69999966 270 N 69 47 1
+TOP 1 65.37500006 49.69999966 270 N 77 9 2
+#
+# CMP 22
+CMP 24 78.50000048 26.69999994 0 N R15 Resistor_10K__+/-1_%_0402_63_mW ;0=1,1=0.4000,5=0
+PRP Case/Package '0402'
+PRP Max_Operating_Temperature '155°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mounting_Technology ''
+PRP Pins '2'
+PRP Power '63mW'
+PRP RoHS_Compliant ''
+PRP Tolerance '1%'
+PRP Value '10k'
+PRP Voltage_Rating ''
+TOP 0 78.05000138 26.69999994 270 N 21 1 1
+TOP 1 78.94999958 26.69999994 270 N 77 14 2
+#
+# CMP 23
+CMP 11 11.49999986 59.68000002 90 N J2 SBH11-PBPC-D20-ST-BK ;0=2,1=10.0000,5=0
+PRP Design_Item_ID 'SBH11-PBPC-D20-ST-BK'
+PRP Mfr_Name 'Sullins'
+PRP RefDes 'RefDes'
+PRP Source 'SBH11-PBPC-D20-ST-BK.SchLib'
+PRP Type 'Headers, Male Pins'
+TOP 0 8.95999986 59.68000002 90 N 77 18 1
+TOP 1 11.49999986 59.68000002 90 N 76 19 2
+TOP 2 8.95999986 57.14000002 90 N 64 1 3
+TOP 3 11.49999986 57.14000002 90 N 76 11 4
+TOP 4 8.95999986 54.60000002 90 N 63 1 5
+TOP 5 11.49999986 54.60000002 90 N 69 66 6
+TOP 6 8.95999986 52.06000002 90 N 62 1 7
+TOP 7 11.49999986 52.06000002 90 N 34 0 8
+TOP 8 8.95999986 49.52000002 90 N 69 67 9
+TOP 9 11.49999986 49.52000002 90 N 36 0 10
+TOP 10 8.95999986 46.98000002 90 N 61 1 11
+TOP 11 11.49999986 46.98000002 90 N 60 1 12
+TOP 12 8.95999986 44.44000002 90 N 59 1 13
+TOP 13 11.49999986 44.44000002 90 N 69 68 14
+TOP 14 8.95999986 41.90000002 90 N 0 5 15
+TOP 15 11.49999986 41.90000002 90 N 0 4 16
+TOP 16 8.95999986 39.36000002 90 N 77 17 17
+TOP 17 11.49999986 39.36000002 90 N 0 6 18
+TOP 18 8.95999986 36.82000002 90 N 58 0 19
+TOP 19 11.49999986 36.82000002 90 N 0 3 20
+TOP 20 8.95999986 34.28000002 90 N 57 0 21
+TOP 21 11.49999986 34.28000002 90 N 0 0 22
+TOP 22 8.95999986 31.74000002 90 N 56 0 23
+TOP 23 11.49999986 31.74000002 90 N 55 0 24
+TOP 24 8.95999986 29.20000002 90 N 69 41 25
+TOP 25 11.49999986 29.20000002 90 N 54 0 26
+TOP 26 8.95999986 26.66000002 90 N 53 0 27
+TOP 27 11.49999986 26.66000002 90 N 52 0 28
+TOP 28 8.95999986 24.12000002 90 N 0 1 29
+TOP 29 11.49999986 24.12000002 90 N 69 54 30
+TOP 30 8.95999986 21.58000002 90 N 0 11 31
+TOP 31 11.49999986 21.58000002 90 N 0 2 32
+TOP 32 8.95999986 19.04000002 90 N 0 12 33
+TOP 33 11.49999986 19.04000002 90 N 69 40 34
+TOP 34 8.95999986 16.50000002 90 N 0 10 35
+TOP 35 11.49999986 16.50000002 90 N 0 13 36
+TOP 36 8.95999986 13.96000002 90 N 0 8 37
+TOP 37 11.49999986 13.96000002 90 N 0 7 38
+TOP 38 8.95999986 11.42000002 90 N 69 43 39
+TOP 39 11.49999986 11.42000002 90 N 0 9 40
+#
+# CMP 24
+CMP 22 82.5000001 2.99999908 0 N ST4 PTH-M2D5X5 ;0=2,1=10.0000,5=0
+PRP Case/Package ''
+PRP Max_Operating_Temperature ''
+PRP Min_Operating_Temperature ''
+PRP Mounting_Technology ''
+PRP Pins '1'
+PRP RoHS_Compliant ''
+TOP 0 82.5000001 2.99999908 0 N 69 55 1
+#
+# CMP 25
+CMP 22 2.99999908 2.99999908 0 N ST3 PTH-M2D5X5 ;0=2,1=10.0000,5=0
+PRP Case/Package ''
+PRP Max_Operating_Temperature ''
+PRP Min_Operating_Temperature ''
+PRP Mounting_Technology ''
+PRP Pins '1'
+PRP RoHS_Compliant ''
+TOP 0 2.99999908 2.99999908 0 N 69 42 1
+#
+# CMP 26
+CMP 22 3.50000062 86.49999972 0 N ST1 PTH-M2D5X5 ;0=2,1=10.0000,5=0
+PRP Case/Package ''
+PRP Max_Operating_Temperature ''
+PRP Min_Operating_Temperature ''
+PRP Mounting_Technology ''
+PRP Pins '1'
+PRP RoHS_Compliant ''
+TOP 0 3.50000062 86.49999972 0 N 69 72 1
+#
+# CMP 27
+CMP 10 65.90000028 6.10000304 0 N J16 S5B-ZR-SM4A-TF_LF_SN ;0=1,1=10.0000,5=0
+PRP Design_Item_ID 'S5B-ZR-SM4A-TF LF SN'
+PRP Mfr_Name 'JST'
+PRP RefDes 'RefDes'
+PRP Source 'S5B-ZR-SM4A-TFLFSN.SchLib'
+PRP Type 'Type'
+TOP 0 65.90000028 6.10000304 0 N 69 132 1
+TOP 1 67.39999982 6.10000304 0 N 66 9 2
+TOP 2 68.89999936 6.10000304 0 N 5 9 3
+TOP 3 70.3999989 6.10000304 0 N 75 16 4
+TOP 4 71.89999844 6.10000304 0 N 69 147 5
+TOP 5 64.65000024 2.19805504 0 N 0 16 6
+TOP 6 73.14999848 2.19805504 0 N 0 25 7
+#
+# CMP 28
+CMP 10 50.6000004 6.10000304 0 N J15 S5B-ZR-SM4A-TF_LF_SN ;0=1,1=10.0000,5=0
+PRP Design_Item_ID 'S5B-ZR-SM4A-TF LF SN'
+PRP Mfr_Name 'JST'
+PRP RefDes 'RefDes'
+PRP Source 'S5B-ZR-SM4A-TFLFSN.SchLib'
+PRP Type 'Type'
+TOP 0 50.6000004 6.10000304 0 N 69 104 1
+TOP 1 52.09999994 6.10000304 0 N 66 1 2
+TOP 2 53.59999948 6.10000304 0 N 5 8 3
+TOP 3 55.09999902 6.10000304 0 N 75 12 4
+TOP 4 56.59999856 6.10000304 0 N 69 92 5
+TOP 5 49.35000036 2.19805504 0 N 0 24 6
+TOP 6 57.8499986 2.19805504 0 N 0 21 7
+#
+# CMP 29
+CMP 10 35.55000256 6.10194868 0 N J14 S5B-ZR-SM4A-TF_LF_SN ;0=1,1=10.0000,5=0
+PRP Design_Item_ID 'S5B-ZR-SM4A-TF LF SN'
+PRP Mfr_Name 'JST'
+PRP RefDes 'RefDes'
+PRP Source 'S5B-ZR-SM4A-TFLFSN.SchLib'
+PRP Type 'Type'
+TOP 0 35.55000256 6.10194868 0 N 69 102 1
+TOP 1 37.0500021 6.10194868 0 N 66 8 2
+TOP 2 38.55000164 6.10194868 0 N 5 1 3
+TOP 3 40.05000118 6.10194868 0 N 75 10 4
+TOP 4 41.55000072 6.10194868 0 N 69 105 5
+TOP 5 34.30000252 2.20000068 0 N 0 26 6
+TOP 6 42.80000076 2.20000068 0 N 0 27 7
+#
+# CMP 30
+CMP 10 20.40000238 6.1000005 0 N J13 S5B-ZR-SM4A-TF_LF_SN ;0=1,1=10.0000,5=0
+PRP Design_Item_ID 'S5B-ZR-SM4A-TF LF SN'
+PRP Mfr_Name 'JST'
+PRP RefDes 'RefDes'
+PRP Source 'S5B-ZR-SM4A-TFLFSN.SchLib'
+PRP Type 'Type'
+TOP 0 20.40000238 6.1000005 0 N 69 101 1
+TOP 1 21.90000192 6.1000005 0 N 66 3 2
+TOP 2 23.40000146 6.1000005 0 N 5 3 3
+TOP 3 24.900001 6.1000005 0 N 75 13 4
+TOP 4 26.40000054 6.1000005 0 N 69 94 5
+TOP 5 19.15000234 2.1980525 0 N 0 14 6
+TOP 6 27.65000058 2.1980525 0 N 0 17 7
+#
+# CMP 31
+CMP 32 82.80450038 19.46650158 270 N TP5 _1.0mm,SMD ;0=1,1=10.0000,5=0
+PRP Artikkelnr_Noca 'N.A.'
+PRP Assembly ''
+PRP Author 'rsk'
+PRP Component_Class 'Connectors'
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'N.A.'
+PRP ComponentLink2Description 'Supplier link'
+PRP ComponentLink2URL 'N.A.'
+PRP Footprint_Doc 'TP_SMD_Ø1.0mm'
+PRP HelpURL 'N.A.'
+PRP LatestRevisionDate '2021-03-05'
+PRP Manufacturer 'Nordic Semiconductor'
+PRP Manufacturer_Part_Number 'N.A.'
+PRP Note 'N.A.'
+PRP Pad_Count '1'
+PRP Part_Number 'TP_SMD_Ø1.0MM'
+PRP Part_number_IPS 'N.A.'
+PRP Part_number_Norautron 'N.A.'
+PRP PartId '100500475'
+PRP Published '2013-06-11'
+PRP Supplier_1 'N.A.'
+PRP Supplier_2 'N.A.'
+PRP Supplier_Part_Number_1 'N.A.'
+PRP Supplier_Part_Number_2 'N.A.'
+PRP Value 'Ø1.0mm,SMD'
+TOP 0 82.80450038 19.46650158 270 N 77 16 1
+#
+# CMP 32
+CMP 32 83.16253624 77.91253658 270 N TP4 _1.0mm,SMD ;0=1,1=10.0000,5=0
+PRP Artikkelnr_Noca 'N.A.'
+PRP Assembly ''
+PRP Author 'rsk'
+PRP Component_Class 'Connectors'
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'N.A.'
+PRP ComponentLink2Description 'Supplier link'
+PRP ComponentLink2URL 'N.A.'
+PRP Footprint_Doc 'TP_SMD_Ø1.0mm'
+PRP HelpURL 'N.A.'
+PRP LatestRevisionDate '2021-03-05'
+PRP Manufacturer 'Nordic Semiconductor'
+PRP Manufacturer_Part_Number 'N.A.'
+PRP Note 'N.A.'
+PRP Pad_Count '1'
+PRP Part_Number 'TP_SMD_Ø1.0MM'
+PRP Part_number_IPS 'N.A.'
+PRP Part_number_Norautron 'N.A.'
+PRP PartId '100500475'
+PRP Published '2013-06-11'
+PRP Supplier_1 'N.A.'
+PRP Supplier_2 'N.A.'
+PRP Supplier_Part_Number_1 'N.A.'
+PRP Supplier_Part_Number_2 'N.A.'
+PRP Value 'Ø1.0mm,SMD'
+TOP 0 83.16253624 77.91253658 270 N 76 12 1
+#
+# CMP 33
+CMP 32 3.16253876 78.55003848 270 N TP3 _1.0mm,SMD ;0=1,1=10.0000,5=0
+PRP Artikkelnr_Noca 'N.A.'
+PRP Assembly ''
+PRP Author 'rsk'
+PRP Component_Class 'Connectors'
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'N.A.'
+PRP ComponentLink2Description 'Supplier link'
+PRP ComponentLink2URL 'N.A.'
+PRP Footprint_Doc 'TP_SMD_Ø1.0mm'
+PRP HelpURL 'N.A.'
+PRP LatestRevisionDate '2021-03-05'
+PRP Manufacturer 'Nordic Semiconductor'
+PRP Manufacturer_Part_Number 'N.A.'
+PRP Note 'N.A.'
+PRP Pad_Count '1'
+PRP Part_Number 'TP_SMD_Ø1.0MM'
+PRP Part_number_IPS 'N.A.'
+PRP Part_number_Norautron 'N.A.'
+PRP PartId '100500475'
+PRP Published '2013-06-11'
+PRP Supplier_1 'N.A.'
+PRP Supplier_2 'N.A.'
+PRP Supplier_Part_Number_1 'N.A.'
+PRP Supplier_Part_Number_2 'N.A.'
+PRP Value 'Ø1.0mm,SMD'
+TOP 0 3.16253876 78.55003848 270 N 69 83 1
+#
+# CMP 34
+CMP 32 7.61253494 87.16002634 270 N TP2 _1.0mm,SMD ;0=1,1=10.0000,5=0
+PRP Artikkelnr_Noca 'N.A.'
+PRP Assembly ''
+PRP Author 'rsk'
+PRP Component_Class 'Connectors'
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'N.A.'
+PRP ComponentLink2Description 'Supplier link'
+PRP ComponentLink2URL 'N.A.'
+PRP Footprint_Doc 'TP_SMD_Ø1.0mm'
+PRP HelpURL 'N.A.'
+PRP LatestRevisionDate '2021-03-05'
+PRP Manufacturer 'Nordic Semiconductor'
+PRP Manufacturer_Part_Number 'N.A.'
+PRP Note 'N.A.'
+PRP Pad_Count '1'
+PRP Part_Number 'TP_SMD_Ø1.0MM'
+PRP Part_number_IPS 'N.A.'
+PRP Part_number_Norautron 'N.A.'
+PRP PartId '100500475'
+PRP Published '2013-06-11'
+PRP Supplier_1 'N.A.'
+PRP Supplier_2 'N.A.'
+PRP Supplier_Part_Number_1 'N.A.'
+PRP Supplier_Part_Number_2 'N.A.'
+PRP Value 'Ø1.0mm,SMD'
+TOP 0 7.61253494 87.16002634 270 N 75 11 1
+#
+# CMP 35
+CMP 4 17.60000036 43.49999936 180 N C36 4.7_F ;0=1,1=10.0000,5=0
+PRP Artikkelnr_Noca '20030013'
+PRP Assembly ''
+PRP Author 'rsk'
+PRP Component_Class 'Capacitors'
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'N.A.'
+PRP ComponentLink2Description 'Supplier link'
+PRP ComponentLink2URL 'N.A.'
+PRP Footprint_Doc '0603'
+PRP HelpURL 'N.A.'
+PRP LatestRevisionDate '2016-08-15'
+PRP Manufacturer 'N.A.'
+PRP Manufacturer_Part_Number 'N.A.'
+PRP Note '10V'
+PRP Pad_Count '2'
+PRP Part_Number 'C0603-4µ7-10V-X7S'
+PRP Part_number_IPS '00000001779'
+PRP Part_number_Norautron 'N.A.'
+PRP PartId '100200351'
+PRP Published '2016-08-15'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'N.A.'
+PRP Supplier_Part_Number_1 '445-14258-1-ND'
+PRP Supplier_Part_Number_2 'N.A.'
+PRP Value '4.7µF'
+TOP 0 18.27500028 43.49999936 90 N 69 107 1
+TOP 1 16.92500044 43.49999936 90 N 77 44 2
+#
+# CMP 36
+CMP 4 17.60000036 42.29999922 180 N C35 10_F ;0=1,1=10.0000,5=0
+PRP Artikkelnr_Noca '20039234'
+PRP Assembly ''
+PRP Author 'rsk'
+PRP Component_Class 'Capacitors'
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'N.A.'
+PRP ComponentLink2Description 'Supplier link'
+PRP ComponentLink2URL 'N.A.'
+PRP Footprint_Doc '0603'
+PRP HelpURL 'N.A.'
+PRP LatestRevisionDate '2011-01-17'
+PRP Manufacturer 'N.A.'
+PRP Manufacturer_Part_Number 'N.A.'
+PRP Note '6.3V'
+PRP Pad_Count '2'
+PRP Part_Number 'C0603-10µ'
+PRP Part_number_IPS '00000007785'
+PRP Part_number_Norautron 'N.A.'
+PRP PartId '100200275'
+PRP Published '2011-01-17'
+PRP Supplier_1 'N.A.'
+PRP Supplier_2 'N.A.'
+PRP Supplier_Part_Number_1 'N.A.'
+PRP Supplier_Part_Number_2 'N.A.'
+PRP Value '10µF'
+TOP 0 18.27500028 42.29999922 90 N 69 110 1
+TOP 1 16.92500044 42.29999922 90 N 77 27 2
+#
+# CMP 37
+CMP 1 17.60000036 40.89999948 180 N C34 Capacitor_22_F_+/-40%_16V_0805 ;0=1,1=1.4500,5=0
+PRP Capacitor_Type ''
+PRP Case/Package '0805'
+PRP Max_Operating_Temperature '85°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mounting_Technology 'SMT'
+PRP Pins '2'
+PRP Ripple_Current ''
+PRP Ripple_Current_(AC) ''
+PRP RoHS_Compliant ''
+PRP Tolerance '5%'
+PRP Value '22µF'
+PRP Voltage_Rating '16V'
+TOP 0 18.5000011 40.89999948 90 N 69 95 1
+TOP 1 16.7099996 40.89999948 90 N 77 35 2
+#
+# CMP 38
+CMP 1 17.60000036 39.39999994 180 N C33 Capacitor_100_F_+/-20%_6.3V_0805 ;0=1,1=1.4500,5=0
+PRP Capacitor_Type ''
+PRP Case/Package '0805'
+PRP Max_Operating_Temperature '85°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mounting_Technology 'SMT'
+PRP Pins '2'
+PRP Ripple_Current ''
+PRP Ripple_Current_(AC) ''
+PRP RoHS_Compliant ''
+PRP Tolerance '10%'
+PRP Value '100µF'
+PRP Voltage_Rating '6.3V'
+TOP 0 18.5000011 39.39999994 90 N 69 108 1
+TOP 1 16.7099996 39.39999994 90 N 77 30 2
+#
+# CMP 39
+CMP 4 33.3143987 50.39160102 270 N C32 4.7_F ;0=1,1=10.0000,5=0
+PRP Artikkelnr_Noca '20030013'
+PRP Assembly ''
+PRP Author 'rsk'
+PRP Component_Class 'Capacitors'
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'N.A.'
+PRP ComponentLink2Description 'Supplier link'
+PRP ComponentLink2URL 'N.A.'
+PRP Footprint_Doc '0603'
+PRP HelpURL 'N.A.'
+PRP LatestRevisionDate '2016-08-15'
+PRP Manufacturer 'N.A.'
+PRP Manufacturer_Part_Number 'N.A.'
+PRP Note '10V'
+PRP Pad_Count '2'
+PRP Part_Number 'C0603-4µ7-10V-X7S'
+PRP Part_number_IPS '00000001779'
+PRP Part_number_Norautron 'N.A.'
+PRP PartId '100200351'
+PRP Published '2016-08-15'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'N.A.'
+PRP Supplier_Part_Number_1 '445-14258-1-ND'
+PRP Supplier_Part_Number_2 'N.A.'
+PRP Value '4.7µF'
+TOP 0 33.3143987 49.7166011 180 N 69 75 1
+TOP 1 33.3143987 51.06660094 180 N 76 14 2
+#
+# CMP 40
+CMP 4 31.81439916 50.39160102 270 N C31 10_F ;0=1,1=10.0000,5=0
+PRP Artikkelnr_Noca '20039234'
+PRP Assembly ''
+PRP Author 'rsk'
+PRP Component_Class 'Capacitors'
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'N.A.'
+PRP ComponentLink2Description 'Supplier link'
+PRP ComponentLink2URL 'N.A.'
+PRP Footprint_Doc '0603'
+PRP HelpURL 'N.A.'
+PRP LatestRevisionDate '2011-01-17'
+PRP Manufacturer 'N.A.'
+PRP Manufacturer_Part_Number 'N.A.'
+PRP Note '6.3V'
+PRP Pad_Count '2'
+PRP Part_Number 'C0603-10µ'
+PRP Part_number_IPS '00000007785'
+PRP Part_number_Norautron 'N.A.'
+PRP PartId '100200275'
+PRP Published '2011-01-17'
+PRP Supplier_1 'N.A.'
+PRP Supplier_2 'N.A.'
+PRP Supplier_Part_Number_1 'N.A.'
+PRP Supplier_Part_Number_2 'N.A.'
+PRP Value '10µF'
+TOP 0 31.81439916 49.7166011 180 N 69 78 1
+TOP 1 31.81439916 51.06660094 180 N 76 15 2
+#
+# CMP 41
+CMP 1 30.21439982 50.2666 270 N C30 Capacitor_22_F_+/-40%_16V_0805 ;0=1,1=1.4500,5=0
+PRP Capacitor_Type ''
+PRP Case/Package '0805'
+PRP Max_Operating_Temperature '85°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mounting_Technology 'SMT'
+PRP Pins '2'
+PRP Ripple_Current ''
+PRP Ripple_Current_(AC) ''
+PRP RoHS_Compliant ''
+PRP Tolerance '5%'
+PRP Value '22µF'
+PRP Voltage_Rating '16V'
+TOP 0 30.21439982 49.36659926 180 N 69 81 1
+TOP 1 30.21439982 51.15660076 180 N 76 20 2
+#
+# CMP 42
+CMP 1 28.41439834 50.29159868 270 N C29 Capacitor_100_F_+/-20%_6.3V_0805 ;0=1,1=1.4500,5=0
+PRP Capacitor_Type ''
+PRP Case/Package '0805'
+PRP Max_Operating_Temperature '85°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mounting_Technology 'SMT'
+PRP Pins '2'
+PRP Ripple_Current ''
+PRP Ripple_Current_(AC) ''
+PRP RoHS_Compliant ''
+PRP Tolerance '10%'
+PRP Value '100µF'
+PRP Voltage_Rating '6.3V'
+TOP 0 28.41439834 49.39159794 180 N 69 103 1
+TOP 1 28.41439834 51.18159944 180 N 76 22 2
+#
+# CMP 43
+CMP 1 26.6143994 50.29159868 270 N C28 Capacitor_100_F_+/-20%_6.3V_0805 ;0=1,1=1.4500,5=0
+PRP Capacitor_Type ''
+PRP Case/Package '0805'
+PRP Max_Operating_Temperature '85°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mounting_Technology 'SMT'
+PRP Pins '2'
+PRP Ripple_Current ''
+PRP Ripple_Current_(AC) ''
+PRP RoHS_Compliant ''
+PRP Tolerance '10%'
+PRP Value '100µF'
+PRP Voltage_Rating '6.3V'
+TOP 0 26.6143994 49.39159794 180 N 69 106 1
+TOP 1 26.6143994 51.18159944 180 N 76 21 2
+#
+# CMP 44
+CMP 8 18.06253436 69.8625349 270 N C27 C1210C107M4PACTU ;0=1,1=10.0000,5=0
+PRP Copyright 'Copyright (C) 2025 Ultra Librarian. All rights reserved.'
+PRP Datasheet 'https://content.kemet.com/datasheets/KEM_C1006_X5R_SMD.pdf'
+PRP Design_Item_ID 'C1210C107M4PACTU'
+PRP Manufacturer_Name 'Kemet'
+PRP Manufacturer_Part_Number 'C1210C107M4PACTU'
+PRP RefDes ''
+PRP Source 'C1210C107M4PACTU.SchLib'
+PRP Type ''
+TOP 0 18.06253436 68.3347376 270 N 69 88 1
+TOP 1 18.06253436 71.3903322 270 N 75 4 2
+#
+# CMP 45
+CMP 8 21.56253498 69.8625349 270 N C26 C1210C107M4PACTU ;0=1,1=10.0000,5=0
+PRP Copyright 'Copyright (C) 2025 Ultra Librarian. All rights reserved.'
+PRP Datasheet 'https://content.kemet.com/datasheets/KEM_C1006_X5R_SMD.pdf'
+PRP Design_Item_ID 'C1210C107M4PACTU'
+PRP Manufacturer_Name 'Kemet'
+PRP Manufacturer_Part_Number 'C1210C107M4PACTU'
+PRP RefDes ''
+PRP Source 'C1210C107M4PACTU.SchLib'
+PRP Type ''
+TOP 0 21.56253498 68.3347376 270 N 69 87 1
+TOP 1 21.56253498 71.3903322 270 N 75 18 2
+#
+# CMP 46
+CMP 4 74.96253486 49.06253586 180 N C25 4.7_F ;0=1,1=10.0000,5=0
+PRP Artikkelnr_Noca '20030013'
+PRP Assembly ''
+PRP Author 'rsk'
+PRP Component_Class 'Capacitors'
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'N.A.'
+PRP ComponentLink2Description 'Supplier link'
+PRP ComponentLink2URL 'N.A.'
+PRP Footprint_Doc '0603'
+PRP HelpURL 'N.A.'
+PRP LatestRevisionDate '2016-08-15'
+PRP Manufacturer 'N.A.'
+PRP Manufacturer_Part_Number 'N.A.'
+PRP Note '10V'
+PRP Pad_Count '2'
+PRP Part_Number 'C0603-4µ7-10V-X7S'
+PRP Part_number_IPS '00000001779'
+PRP Part_number_Norautron 'N.A.'
+PRP PartId '100200351'
+PRP Published '2016-08-15'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'N.A.'
+PRP Supplier_Part_Number_1 '445-14258-1-ND'
+PRP Supplier_Part_Number_2 'N.A.'
+PRP Value '4.7µF'
+TOP 0 75.63753478 49.06253586 90 N 69 35 1
+TOP 1 74.28753494 49.06253586 90 N 77 19 2
+#
+# CMP 47
+CMP 4 72.16253538 46.96253498 0 N C24 10_F ;0=1,1=10.0000,5=0
+PRP Artikkelnr_Noca '20039234'
+PRP Assembly ''
+PRP Author 'rsk'
+PRP Component_Class 'Capacitors'
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'N.A.'
+PRP ComponentLink2Description 'Supplier link'
+PRP ComponentLink2URL 'N.A.'
+PRP Footprint_Doc '0603'
+PRP HelpURL 'N.A.'
+PRP LatestRevisionDate '2011-01-17'
+PRP Manufacturer 'N.A.'
+PRP Manufacturer_Part_Number 'N.A.'
+PRP Note '6.3V'
+PRP Pad_Count '2'
+PRP Part_Number 'C0603-10µ'
+PRP Part_number_IPS '00000007785'
+PRP Part_number_Norautron 'N.A.'
+PRP PartId '100200275'
+PRP Published '2011-01-17'
+PRP Supplier_1 'N.A.'
+PRP Supplier_2 'N.A.'
+PRP Supplier_Part_Number_1 'N.A.'
+PRP Supplier_Part_Number_2 'N.A.'
+PRP Value '10µF'
+TOP 0 71.48753546 46.96253498 270 N 69 45 1
+TOP 1 72.8375353 46.96253498 270 N 77 21 2
+#
+# CMP 48
+CMP 24 51.30880518 51.2732528 90 N R13 Resistor_33R__+/-5_%_0402_63_mW ;0=1,1=0.4000,5=0
+PRP Case/Package '0402'
+PRP Max_Operating_Temperature '155°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mounting_Technology ''
+PRP Pins '2'
+PRP Power '63mW'
+PRP RoHS_Compliant ''
+PRP Tolerance '5%'
+PRP Value '33'
+PRP Voltage_Rating ''
+TOP 0 51.30880518 51.7232519 0 N 1 0 1
+TOP 1 51.30880518 50.8232537 0 N 57 1 2
+#
+# CMP 49
+CMP 24 48.62500054 51.36999886 90 N R12 Resistor_33R__+/-5_%_0402_63_mW ;0=1,1=0.4000,5=0
+PRP Case/Package '0402'
+PRP Max_Operating_Temperature '155°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mounting_Technology ''
+PRP Pins '2'
+PRP Power '63mW'
+PRP RoHS_Compliant ''
+PRP Tolerance '5%'
+PRP Value '33'
+PRP Voltage_Rating ''
+TOP 0 48.62500054 51.81999796 0 N 2 0 1
+TOP 1 48.62500054 50.91999976 0 N 55 1 2
+#
+# CMP 50
+CMP 24 52.52999908 51.25500036 90 N R11 Resistor_33R__+/-5_%_0402_63_mW ;0=1,1=0.4000,5=0
+PRP Case/Package '0402'
+PRP Max_Operating_Temperature '155°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mounting_Technology ''
+PRP Pins '2'
+PRP Power '63mW'
+PRP RoHS_Compliant ''
+PRP Tolerance '5%'
+PRP Value '33'
+PRP Voltage_Rating ''
+TOP 0 52.52999908 51.70499946 0 N 3 0 1
+TOP 1 52.52999908 50.80500126 0 N 56 1 2
+#
+# CMP 51
+CMP 24 49.93999918 51.3850001 270 N R10 Resistor_33R__+/-5_%_0402_63_mW ;0=1,1=0.4000,5=0
+PRP Case/Package '0402'
+PRP Max_Operating_Temperature '155°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mounting_Technology ''
+PRP Pins '2'
+PRP Power '63mW'
+PRP RoHS_Compliant ''
+PRP Tolerance '5%'
+PRP Value '33'
+PRP Voltage_Rating ''
+TOP 0 49.93999918 50.935001 180 N 58 1 1
+TOP 1 49.93999918 51.8349992 180 N 4 0 2
+#
+# CMP 52
+CMP 34 63.3625352 40.16253334 90 N X2 32.768kHz ;0=1,1=10.0000,5=0
+PRP Artikkelnr_Noca '22019091'
+PRP Assembly ''
+PRP Author 'rsk'
+PRP Component_Class 'Oscillators'
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'N.A.'
+PRP ComponentLink2Description 'Supplier link'
+PRP ComponentLink2URL 'N.A.'
+PRP Footprint_Doc 'XTAL_3215'
+PRP HelpURL 'http://www.farnell.com/datasheets/57480.pdf'
+PRP LatestRevisionDate '2017-10-18'
+PRP Manufacturer 'Epson Toyocom'
+PRP Manufacturer_Part_Number 'FC-135 32.768KHZ ±20PPM,9.0PF'
+PRP Note 'XTAL SMD 32.768kHz'
+PRP Pad_Count '2'
+PRP Part_Number 'XTAL_SMD3215_32.768kHz_9pF_Epson'
+PRP Part_number_IPS 'N.A.'
+PRP Part_number_Norautron 'N.A.'
+PRP PartId '101600021'
+PRP Published '2010-10-18'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'Farnell'
+PRP Supplier_Part_Number_1 'FC-135 32.7680KA-AC-ND'
+PRP Supplier_Part_Number_2 '127-8037'
+PRP Value '32.768kHz'
+TOP 0 63.3625352 41.41253084 90 N 42 0 1
+TOP 1 63.3625352 38.9125333 90 N 41 0 2
+#
+# CMP 53
+CMP 0 77.06253574 45.86253464 180 N X1 32MHz ;0=1,1=10.0000,5=0
+PRP Artikkelnr_Noca '22019238'
+PRP Assembly ''
+PRP Author 'rsk'
+PRP Component_Class 'Oscillators'
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'N.A.'
+PRP ComponentLink2Description 'Supplier link'
+PRP ComponentLink2URL 'N.A.'
+PRP Footprint_Doc 'XTAL_2016'
+PRP HelpURL 'http://www.epsondevice.com/docs/qd/en/DownloadServlet?id=ID000449'
+PRP LatestRevisionDate '2014-11-27'
+PRP Manufacturer 'Epson Toyocom'
+PRP Manufacturer_Part_Number 'Q22FA12800025'
+PRP Note 'XTAL SMD 32.000MHz'
+PRP Pad_Count '4'
+PRP Part_Number 'XTAL_SMD2016_32MHz_8pF_Epson'
+PRP Part_number_IPS 'N.A.'
+PRP Part_number_Norautron 'N.A.'
+PRP PartId '101600036'
+PRP Published '2012-03-09'
+PRP Supplier_1 'Farnell'
+PRP Supplier_2 'N.A.'
+PRP Supplier_Part_Number_1 '171-2806'
+PRP Supplier_Part_Number_2 'N.A.'
+PRP Value '32MHz'
+TOP 0 77.78753556 46.43753476 180 N 7 1 1
+TOP 1 76.33753592 46.43753476 180 N 69 38 2
+TOP 2 76.33753592 45.28753452 180 N 6 1 3
+TOP 3 77.78753556 45.28753452 180 N 69 50 4
+#
+# CMP 54
+CMP 20 24.17353306 20.50673572 90 N U6 SP3485EN-L ;0=1,1=10.0000,5=0
+PRP Design_Item_ID 'SP3485EN-L'
+PRP Mfr_Name 'MaxLinear / Exar'
+PRP RefDes 'RefDes'
+PRP Source 'SP3485EN-L.SchLib'
+PRP Type 'Type'
+TOP 0 26.07853306 23.16103572 90 N 52 1 1
+TOP 1 24.80853306 23.16103572 90 N 43 3 2
+TOP 2 23.53853306 23.16103572 90 N 43 0 3
+TOP 3 22.26853306 23.16103572 90 N 53 2 4
+TOP 4 22.26853306 17.85243572 90 N 69 97 5
+TOP 5 23.53853306 17.85243572 90 N 5 7 6
+TOP 6 24.80853306 17.85243572 90 N 66 2 7
+TOP 7 26.07853306 17.85243572 90 N 77 34 8
+#
+# CMP 55
+CMP 30 51.86253534 55.86253496 90 N U5 MCP3008T-I/SL ;0=1,1=10.0000,5=0
+PRP Check_prices 'https://www.snapeda.com/parts/MCP3008T-I/SL/Microchip/view-part/?ref=eda'
+PRP Component_Type 'Standard'
+PRP Design_Item_ID 'MCP3008T-I/SL'
+PRP MF 'Microchip Technology'
+PRP MP 'MCP3008T-I/SL'
+PRP Package 'SOIC-16 Microchip'
+PRP Pin_Count '16'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/MCP3008T-I/SL/Microchip/view-part/?ref=snap'
+PRP Source 'MCP3008T-I_SL.SchLib'
+PRP Value ''
+TOP 0 56.30753534 58.22473496 90 N 51 2 1
+TOP 1 55.03753534 58.22473496 90 N 50 2 2
+TOP 2 53.76753534 58.22473496 90 N 49 1 3
+TOP 3 52.49753534 58.22473496 90 N 48 1 4
+TOP 4 51.22753534 58.22473496 90 N 47 1 5
+TOP 5 49.95753534 58.22473496 90 N 0 18 6
+TOP 6 48.68753534 58.22473496 90 N 0 19 7
+TOP 7 47.41753534 58.22473496 90 N 0 20 8
+TOP 8 47.41753534 53.50033496 90 N 69 99 9
+TOP 9 48.68753534 53.50033496 90 N 2 1 10
+TOP 10 49.95753534 53.50033496 90 N 4 1 11
+TOP 11 51.22753534 53.50033496 90 N 1 1 12
+TOP 12 52.49753534 53.50033496 90 N 3 1 13
+TOP 13 53.76753534 53.50033496 90 N 69 98 14
+TOP 14 55.03753534 53.50033496 90 N 77 31 15
+TOP 15 56.30753534 53.50033496 90 N 77 32 16
+#
+# CMP 56
+CMP 29 26.2198993 58.92593498 90 N U4 IHLE5050FHER101M5A ;0=1,1=10.0000,5=0
+PRP Design_Item_ID 'IHLE5050FHER101M5A'
+PRP Mfr_Name 'Vishay'
+PRP RefDes 'RefDes'
+PRP Source 'IHLE5050FHER101M5A.SchLib'
+PRP Type 'Type'
+TOP 0 26.2198993 64.60283498 180 N 67 2 1
+TOP 1 20.3524993 58.92593498 270 N 69 90 2
+TOP 2 26.2198993 53.24903498 180 N 76 18 3
+TOP 3 32.0872993 58.92593498 270 N 69 85 4
+#
+# CMP 57
+CMP 31 27.46253588 83.1625337 0 N U3 LM2576WU ;0=1,1=10.0000,5=0
+PRP Design_Item_ID 'LM2576WU'
+PRP Mfr_Name 'Micrel / Microchip Technology'
+PRP RefDes 'RefDes'
+PRP Source 'LM2576WU.SchLib'
+PRP Type 'Type'
+TOP 0 24.05893588 74.0185337 0 N 75 14 1
+TOP 1 25.76073588 74.0185337 0 N 67 1 2
+TOP 2 27.46253588 74.0185337 0 N 69 86 3
+TOP 3 29.16433588 74.0185337 0 N 76 17 4
+TOP 4 30.86613588 74.0185337 0 N 69 131 5
+TOP 5 27.46253588 83.1625337 0 N 69 134 6
+#
+# CMP 58
+CMP 23 70.0625345 40.76253468 0 N U1 nRF52832-QFAAG0 ;0=1,1=10.0000,5=0
+PRP Artikkelnr_Noca 'N.A.'
+PRP Assembly ''
+PRP Author 'rubr'
+PRP Component_Class 'nRF_Devices'
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'N.A.'
+PRP ComponentLink2Description 'Supplier link'
+PRP ComponentLink2URL 'N.A.'
+PRP Footprint_Doc 'QFN-48'
+PRP HelpURL 'N.A.'
+PRP LatestRevisionDate '2021-05-31'
+PRP Manufacturer 'Nordic Semiconductor'
+PRP Manufacturer_Part_Number 'nRF52832-QFAAG0'
+PRP Note 'N.A.'
+PRP Pad_Count '48'
+PRP Part_Number 'nRF52832-QFAAG0'
+PRP Part_number_IPS 'N.A.'
+PRP Part_number_Norautron 'N.A.'
+PRP PartId '102000228'
+PRP Published '2021-05-31'
+PRP Supplier_1 'Nordic Semiconductor'
+PRP Supplier_2 'N.A.'
+PRP Supplier_Part_Number_1 'nRF52832-QFAAG0'
+PRP Supplier_Part_Number_2 'N.A.'
+PRP Value 'nRF52832-QFAAG0'
+TOP 0 67.0375342 42.96253536 270 N 73 1 1
+TOP 1 67.0375342 42.56253616 270 N 42 2 2
+TOP 2 67.0375342 42.16253442 270 N 41 2 3
+TOP 3 67.0375342 41.76253522 270 N 40 0 4
+TOP 4 67.0375342 41.36253602 270 N 39 0 5
+TOP 5 67.0375342 40.96253428 270 N 38 0 6
+TOP 6 67.0375342 40.56253508 270 N 37 0 7
+TOP 7 67.0375342 40.16253334 270 N 36 1 8
+TOP 8 67.0375342 39.76253414 270 N 35 0 9
+TOP 9 67.0375342 39.36253494 270 N 34 1 10
+TOP 10 67.0375342 38.9625332 270 N 33 0 11
+TOP 11 67.0375342 38.562534 270 N 32 0 12
+TOP 12 67.86253382 37.73753438 0 N 77 41 13
+TOP 13 68.26253302 37.73753438 0 N 31 0 14
+TOP 14 68.66253476 37.73753438 0 N 30 0 15
+TOP 15 69.06253396 37.73753438 0 N 29 0 16
+TOP 16 69.46253316 37.73753438 0 N 28 0 17
+TOP 17 69.8625349 37.73753438 0 N 27 0 18
+TOP 18 70.2625341 37.73753438 0 N 26 0 19
+TOP 19 70.66253584 37.73753438 0 N 25 0 20
+TOP 20 71.06253504 37.73753438 0 N 24 1 21
+TOP 21 71.46253424 37.73753438 0 N 23 0 22
+TOP 22 71.86253598 37.73753438 0 N 22 0 23
+TOP 23 72.26253518 37.73753438 0 N 21 2 24
+TOP 24 73.0875348 38.562534 270 N 9 1 25
+TOP 25 73.0875348 38.96253574 270 N 8 1 26
+TOP 26 73.0875348 39.36253494 270 N 20 0 27
+TOP 27 73.0875348 39.76253414 270 N 19 0 28
+TOP 28 73.0875348 40.16253588 270 N 18 0 29
+TOP 29 73.0875348 40.56253508 270 N 68 0 30
+TOP 30 73.0875348 40.96253682 270 N 69 116 31
+TOP 31 73.0875348 41.36253602 270 N 72 1 32
+TOP 32 73.0875348 41.76253522 270 N 71 0 33
+TOP 33 73.0875348 42.16253696 270 N 7 2 34
+TOP 34 73.0875348 42.56253616 270 N 6 2 35
+TOP 35 73.0875348 42.96253536 270 N 77 11 36
+TOP 36 72.26253518 43.78753498 0 N 17 1 37
+TOP 37 71.86253344 43.78753498 0 N 16 1 38
+TOP 38 71.46253424 43.78753498 0 N 15 0 39
+TOP 39 71.06253504 43.78753498 0 N 14 0 40
+TOP 40 70.6625333 43.78753498 0 N 13 0 41
+TOP 41 70.2625341 43.78753498 0 N 12 0 42
+TOP 42 69.86253236 43.78753498 0 N 11 0 43
+TOP 43 69.46253316 43.78753498 0 N 0 15 44
+TOP 44 69.06253396 43.78753498 0 N 69 121 45
+TOP 45 68.66253222 43.78753498 0 N 70 2 46
+TOP 46 68.26253302 43.78753498 0 N 45 1 47
+TOP 47 67.86253382 43.78753498 0 N 77 7 48
+TOP 48 70.0625345 40.76253468 0 N 69 119 49
+#
+# CMP 59
+CMP 32 78.18879968 28.28159952 270 N TP1 _1.0mm,SMD ;0=1,1=10.0000,5=0
+PRP Artikkelnr_Noca 'N.A.'
+PRP Assembly ''
+PRP Author 'rsk'
+PRP Component_Class 'Connectors'
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'N.A.'
+PRP ComponentLink2Description 'Supplier link'
+PRP ComponentLink2URL 'N.A.'
+PRP Footprint_Doc 'TP_SMD_Ø1.0mm'
+PRP HelpURL 'N.A.'
+PRP LatestRevisionDate '2021-03-05'
+PRP Manufacturer 'Nordic Semiconductor'
+PRP Manufacturer_Part_Number 'N.A.'
+PRP Note 'N.A.'
+PRP Pad_Count '1'
+PRP Part_Number 'TP_SMD_Ø1.0MM'
+PRP Part_number_IPS 'N.A.'
+PRP Part_number_Norautron 'N.A.'
+PRP PartId '100500475'
+PRP Published '2013-06-11'
+PRP Supplier_1 'N.A.'
+PRP Supplier_2 'N.A.'
+PRP Supplier_Part_Number_1 'N.A.'
+PRP Supplier_Part_Number_2 'N.A.'
+PRP Value 'Ø1.0mm,SMD'
+TOP 0 78.18879968 28.28159952 270 N 21 3 1
+#
+# CMP 60
+CMP 26 22.01473118 16.1304351 0 N R9 Resistor_4k7_+/-1%_0402_100_mW ;0=1,1=0.4000,5=0
+PRP Case/Package '0402'
+PRP Max_Operating_Temperature '155°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mounting_Technology 'SM'
+PRP Pins '2'
+PRP Power '100mW'
+PRP RoHS_Compliant 'True'
+PRP Tolerance '1%'
+PRP Value '4.7k'
+PRP Voltage_Rating '50V'
+TOP 0 21.51473218 16.1304351 270 N 77 15 1
+TOP 1 22.51473272 16.1304351 270 N 5 2 2
+#
+# CMP 61
+CMP 26 22.31473312 24.83043548 90 N R8 Resistor_4k7_+/-1%_0402_100_mW ;0=1,1=0.4000,5=0
+PRP Case/Package '0402'
+PRP Max_Operating_Temperature '155°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mounting_Technology 'SM'
+PRP Pins '2'
+PRP Power '100mW'
+PRP RoHS_Compliant 'True'
+PRP Tolerance '1%'
+PRP Value '4.7k'
+PRP Voltage_Rating '50V'
+TOP 0 22.31473312 25.33043448 0 N 44 1 1
+TOP 1 22.31473312 24.33043394 0 N 53 1 2
+#
+# CMP 62
+CMP 25 24.21473186 16.13043256 0 N R7 Resistor_120R_+/-5_%_0603_0.1_W ;0=1,1=0.6000,5=0
+PRP Case/Package '0603'
+PRP Max_Operating_Temperature '155°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mounting_Technology ''
+PRP Pins '2'
+PRP Power '100mW'
+PRP RoHS_Compliant ''
+PRP Tolerance '5%'
+PRP Value '120'
+PRP Voltage_Rating ''
+TOP 0 23.51473072 16.1304351 270 N 5 0 1
+TOP 1 24.914733 16.1304351 270 N 66 4 2
+#
+# CMP 63
+CMP 26 26.0999986 27.99999988 90 N R6 Resistor_4k7_+/-1%_0402_100_mW ;0=1,1=0.4000,5=0
+PRP Case/Package '0402'
+PRP Max_Operating_Temperature '155°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mounting_Technology 'SM'
+PRP Pins '2'
+PRP Power '100mW'
+PRP RoHS_Compliant 'True'
+PRP Tolerance '1%'
+PRP Value '4.7k'
+PRP Voltage_Rating '50V'
+TOP 0 26.0999986 28.49999888 0 N 77 25 1
+TOP 1 26.0999986 27.49999834 0 N 43 2 2
+#
+# CMP 64
+CMP 26 26.41473254 16.1304351 0 N R5 Resistor_4k7_+/-1%_0402_100_mW ;0=1,1=0.4000,5=0
+PRP Case/Package '0402'
+PRP Max_Operating_Temperature '155°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mounting_Technology 'SM'
+PRP Pins '2'
+PRP Power '100mW'
+PRP RoHS_Compliant 'True'
+PRP Tolerance '1%'
+PRP Value '4.7k'
+PRP Voltage_Rating '50V'
+TOP 0 25.91473354 16.1304351 270 N 66 0 1
+TOP 1 26.91473408 16.1304351 270 N 69 93 2
+#
+# CMP 65
+CMP 24 81.06253536 79.21253906 270 N R4 Resistor_2K2__+/-5_%_0402_63_mW ;0=1,1=0.4000,5=0
+PRP Case/Package '0402'
+PRP Max_Operating_Temperature '155°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mounting_Technology ''
+PRP Pins '2'
+PRP Power '63mW'
+PRP RoHS_Compliant ''
+PRP Tolerance '5%'
+PRP Value '2.2k'
+PRP Voltage_Rating ''
+TOP 0 81.06253536 78.76253996 180 N 65 0 1
+TOP 1 81.06253536 79.66253816 180 N 76 13 2
+#
+# CMP 66
+CMP 25 68.29999802 9.30000172 180 N R3 Resistor_120R_+/-5_%_0603_0.1_W ;0=1,1=0.6000,5=0
+PRP Case/Package '0603'
+PRP Max_Operating_Temperature '155°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mounting_Technology ''
+PRP Pins '2'
+PRP Power '100mW'
+PRP RoHS_Compliant ''
+PRP Tolerance '5%'
+PRP Value '120'
+PRP Voltage_Rating ''
+TOP 0 68.99999916 9.29999918 90 N 5 5 1
+TOP 1 67.59999688 9.29999918 90 N 66 7 2
+#
+# CMP 67
+CMP 26 55.60000056 71.10000004 180 N R2 Resistor_10k_+/-1%_0402_63_mW ;0=1,1=0.4000,5=0
+PRP Case/Package '0402'
+PRP Max_Operating_Temperature '155°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mounting_Technology 'SM'
+PRP Pins '2'
+PRP Power '63mW'
+PRP RoHS_Compliant 'True'
+PRP Tolerance '1%'
+PRP Value '10k'
+PRP Voltage_Rating '50V'
+TOP 0 56.09999956 71.10000004 90 N 69 130 1
+TOP 1 55.09999902 71.10000004 90 N 50 1 2
+#
+# CMP 68
+CMP 26 56.9000005 68.59999996 180 N R1 Resistor_10k_+/-1%_0402_63_mW ;0=1,1=0.4000,5=0
+PRP Case/Package '0402'
+PRP Max_Operating_Temperature '155°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mounting_Technology 'SM'
+PRP Pins '2'
+PRP Power '63mW'
+PRP RoHS_Compliant 'True'
+PRP Tolerance '1%'
+PRP Value '10k'
+PRP Voltage_Rating '50V'
+TOP 0 57.3999995 68.59999996 90 N 69 133 1
+TOP 1 56.39999896 68.59999996 90 N 51 1 2
+#
+# CMP 69
+CMP 33 23.06253452 27.46253334 180 N Q1 S8550 ;0=2,1=7.2300,5=0
+PRP Case/Package 'TO-92-3'
+PRP Datasheet_URL 'http://media.nkcelectronics.com/datasheet/s8550.pdf'
+PRP Datasheet_Version 'Rev. E, 06/2014'
+PRP Frequency ''
+PRP Manufacturer 'Unisonic'
+PRP Max_Operating_Temperature ''
+PRP Min_Operating_Temperature ''
+PRP Mounting_Technology 'TH'
+PRP Nominal_Dual_Supply ''
+PRP Nominal_Vgs ''
+PRP Package_Description '3-Pin Through Hole Device, Dia 4.58 mm, Pitch 1.27 mm'
+PRP Package_Reference 'TO-92-3'
+PRP Pins ''
+PRP Power ''
+PRP RoHS_Compliant 'Unknown'
+PRP Transistor_Type ''
+PRP Vgs_(Max) ''
+PRP Vgs(th)_(Max)_@_Id ''
+TOP 0 21.79253452 27.4625308 180 N 69 65 1
+TOP 1 23.06253452 27.4625308 180 N 44 0 2
+TOP 2 24.33253452 27.4625308 180 N 43 1 3
+#
+# CMP 70
+CMP 13 74.06253666 24.36253446 0 N P1 Pin_Header_2x5,_1.27mm ;0=1,1=10.0000,5=0
+PRP Artikkelnr_Noca '55010009'
+PRP Assembly ''
+PRP Author 'rsk'
+PRP Component_Class 'Connectors'
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'N.A.'
+PRP ComponentLink2Description 'Supplier link'
+PRP ComponentLink2URL 'N.A.'
+PRP Footprint_Doc 'HDR_2x5-SMD-1.27mm'
+PRP HelpURL '\\hizz\pro\app9717\Datasheet\connectors\W-CON\3132-XXMXXBK00XX.pdf'
+PRP LatestRevisionDate '2016-04-21'
+PRP Manufacturer 'W-CON'
+PRP Manufacturer_Part_Number '3132-10MS0BK00R1'
+PRP Note 'N.A.'
+PRP Pad_Count '10'
+PRP Part_Number 'Pin Header 2x5 SMD, 1.27mm, KS'
+PRP Part_number_IPS '00000009968'
+PRP Part_number_Norautron 'N.A.'
+PRP PartId '100500261'
+PRP Published '2016-01-22'
+PRP Supplier_1 'Cabcon'
+PRP Supplier_2 'Samtec'
+PRP Supplier_Part_Number_1 '3132-10MS0BK00R1'
+PRP Supplier_Part_Number_2 'FTSH-105-01-F-DV-K'
+PRP Value 'Pin Header 2x5, 1.27mm'
+TOP 0 71.52253666 22.41253328 0 N 77 40 1
+TOP 1 71.52253666 26.31253564 0 N 8 0 2
+TOP 2 72.79253666 22.41253328 0 N 69 141 3
+TOP 3 72.79253666 26.31253564 0 N 9 0 4
+TOP 4 74.06253666 22.41253328 0 N 69 129 5
+TOP 5 74.06253666 26.31253564 0 N 24 0 6
+TOP 6 75.33253666 22.41253328 0 N 0 23 7
+TOP 7 75.33253666 26.31253564 0 N 0 22 8
+TOP 8 76.60253666 22.41253328 0 N 69 117 9
+TOP 9 76.60253666 26.31253564 0 N 21 0 10
+#
+# CMP 71
+CMP 14 75.84000072 40.16000096 0 N L3 3.9nH ;0=1,1=10.0000,5=0
+PRP Artikkelnr_Noca '33029151'
+PRP Assembly ''
+PRP Author 'rsk'
+PRP Component_Class 'Inductors'
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'N.A.'
+PRP ComponentLink2Description 'Supplier link'
+PRP ComponentLink2URL 'N.A.'
+PRP Footprint_Doc '0402'
+PRP HelpURL 'http://search.murata.co.jp/Ceramy/image/img/PDF/ENG/L0075S0084LQP15M.pdf'
+PRP LatestRevisionDate '2012-09-19'
+PRP Manufacturer 'Murata'
+PRP Manufacturer_Part_Number 'LQP15MN3N9B02D'
+PRP Note 'High frequency chip inductor ±5%'
+PRP Pad_Count '2'
+PRP Part_Number 'L0402-3n9'
+PRP Part_number_IPS '00000007793'
+PRP Part_number_Norautron 'N.A.'
+PRP PartId '100300049'
+PRP Published '2009-05-08'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'N.A.'
+PRP Supplier_Part_Number_1 '490-1131-1-ND'
+PRP Supplier_Part_Number_2 'N.A.'
+PRP Value '3.9nH'
+TOP 0 75.3650004 40.16000096 270 N 68 2 1
+TOP 1 76.31500104 40.16000096 270 N 10 1 2
+#
+# CMP 72
+CMP 15 67.86253636 45.63753382 90 N L2 10_H ;0=1,1=10.0000,5=0
+PRP Artikkelnr_Noca '33029314'
+PRP Assembly ''
+PRP Author 'rsk'
+PRP Component_Class 'Inductors'
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'N.A.'
+PRP ComponentLink2Description 'Supplier link'
+PRP ComponentLink2URL 'N.A.'
+PRP Footprint_Doc '0603'
+PRP HelpURL 'http://www.yuden.co.jp/ut/product/pdf/elb2_e.pdf'
+PRP LatestRevisionDate '2012-09-19'
+PRP Manufacturer 'Taiyo Yuden'
+PRP Manufacturer_Part_Number 'LBMF1608T100K'
+PRP Note 'LBMF1608T100K 10µH 80mA 0603'
+PRP Pad_Count '2'
+PRP Part_Number 'L0603-10µ'
+PRP Part_number_IPS '00000007794'
+PRP Part_number_Norautron 'N.A.'
+PRP PartId '100300078'
+PRP Published '2010-02-24'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'Farnell'
+PRP Supplier_Part_Number_1 '587-1714-1-ND'
+PRP Supplier_Part_Number_2 '178-6105'
+PRP Value '10µH'
+TOP 0 67.86253636 46.31253374 0 N 46 0 1
+TOP 1 67.86253636 44.9625339 0 N 45 0 2
+#
+# CMP 73
+CMP 14 66.86253582 47.46253398 90 N L1 15nH ;0=1,1=10.0000,5=0
+PRP Artikkelnr_Noca '33029323'
+PRP Assembly ''
+PRP Author 'rsk'
+PRP Component_Class 'Inductors'
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'N.A.'
+PRP ComponentLink2Description 'Supplier link'
+PRP ComponentLink2URL 'N.A.'
+PRP Footprint_Doc '0402'
+PRP HelpURL 'http://www.yuden.co.jp/productdata/catalog/en/mlci04_e.pdf'
+PRP LatestRevisionDate '2012-09-19'
+PRP Manufacturer 'Taiyo Yuden'
+PRP Manufacturer_Part_Number 'HK100515NJ-T'
+PRP Note 'High frequency chip inductor ±10%'
+PRP Pad_Count '2'
+PRP Part_Number 'L0402-15n'
+PRP Part_number_IPS '00000001262'
+PRP Part_number_Norautron 'N.A.'
+PRP PartId '100300056'
+PRP Published '2010-07-12'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'Farnell'
+PRP Supplier_Part_Number_1 '587-1521-1-ND'
+PRP Supplier_Part_Number_2 '658-1328'
+PRP Value '15nH'
+TOP 0 66.86253582 47.9375343 0 N 70 1 1
+TOP 1 66.86253582 46.98753366 0 N 46 1 2
+#
+# CMP 74
+CMP 12 15.76253642 81.46253456 270 N J17 PJ-102BH ;0=2,1=0.0000,5=0
+PRP Case/Package 'None'
+PRP Check_prices 'https://www.snapeda.com/parts/PJ-102BH/Same+Sky/view-part/?ref=eda'
+PRP Component_Type 'Standard'
+PRP Connector_Type ''
+PRP Design_Item_ID 'PJ-102BH'
+PRP Gender ''
+PRP Max_Current_Rating ''
+PRP Max_Operating_Temperature ''
+PRP MF 'Same Sky'
+PRP Min_Operating_Temperature ''
+PRP Mounting_Technology ''
+PRP MP 'PJ-102BH'
+PRP Pins '3'
+PRP RoHS_Compliant ''
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/PJ-102BH/Same+Sky/view-part/?ref=snap'
+PRP Source 'PJ-102BH.SchLib'
+PRP Value ''
+PRP Voltage_Rating ''
+TOP 0 15.76253642 74.96253486 180 N 75 7 1
+TOP 1 15.76253642 80.96253556 180 N 69 73 2
+TOP 2 11.06253566 77.96253394 90 N 69 69 3
+#
+# CMP 75
+CMP 16 39.33753626 82.1125358 270 N J12 B2B-XH-A ;0=2,1=7.0000,5=0
+PRP Availability 'Unavailable'
+PRP Component_Type 'Standard'
+PRP Design_Item_ID 'B2B-XH-A'
+PRP MF '{_manufacturer_: u_JST Sales America Inc._}'
+PRP MP 'B2B-XH-A'
+PRP Package 'None'
+PRP Pin_Count '2'
+PRP Price 'None'
+PRP Source 'B2B-XH-A.SchLib'
+PRP Value ''
+TOP 0 39.86253648 83.36253584 270 N 75 5 1
+TOP 1 39.86253648 80.86253576 270 N 69 58 2
+#
+# CMP 76
+CMP 17 46.86253518 79.86253522 90 N J7 B4B-XH-A ;0=2,1=7.0000,5=0
+PRP Case/Package 'None'
+PRP Check_prices 'https://www.snapeda.com/parts/B4B-XH-A/JST/view-part/?ref=eda'
+PRP Component_Type 'Standard'
+PRP Design_Item_ID 'B4B-XH-A'
+PRP MF 'JST Sales'
+PRP MP 'B4B-XH-A'
+PRP Pins '4'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/B4B-XH-A/JST/view-part/?ref=snap'
+PRP Source 'B4B-XH-A.SchLib'
+PRP Value ''
+TOP 0 46.33753496 76.1125351 90 N 76 7 1
+TOP 1 46.33753496 78.61253518 90 N 69 64 2
+TOP 2 46.33753496 81.11253526 90 N 47 0 3
+TOP 3 46.33753496 83.61253534 90 N 75 2 4
+#
+# CMP 77
+CMP 17 53.86253642 79.86253522 90 N J6 B4B-XH-A ;0=2,1=7.0000,5=0
+PRP Case/Package 'None'
+PRP Check_prices 'https://www.snapeda.com/parts/B4B-XH-A/JST/view-part/?ref=eda'
+PRP Component_Type 'Standard'
+PRP Design_Item_ID 'B4B-XH-A'
+PRP MF 'JST Sales'
+PRP MP 'B4B-XH-A'
+PRP Pins '4'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/B4B-XH-A/JST/view-part/?ref=snap'
+PRP Source 'B4B-XH-A.SchLib'
+PRP Value ''
+TOP 0 53.3375362 76.1125351 90 N 76 10 1
+TOP 1 53.3375362 78.61253518 90 N 69 57 2
+TOP 2 53.3375362 81.11253526 90 N 48 0 3
+TOP 3 53.3375362 83.61253534 90 N 75 6 4
+#
+# CMP 78
+CMP 18 81.8625363 63.8625342 90 N J11 B5B-XH-A ;0=2,1=7.0000,5=0
+PRP Case/Package 'None'
+PRP Check_prices 'https://www.snapeda.com/parts/B5B-XH-A/JST+Sales+America+Inc./view-part/?ref=eda'
+PRP Component_Type 'Standard'
+PRP Design_Item_ID 'B5B-XH-A'
+PRP MF 'JST Sales'
+PRP MP 'B5B-XH-A'
+PRP Pins '5'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/B5B-XH-A/JST+Sales+America+Inc./view-part/?ref=snap'
+PRP Source 'B5B-XH-A.SchLib'
+PRP Value ''
+TOP 0 81.33753608 58.86253404 90 N 76 9 1
+TOP 1 81.33753608 61.36253412 90 N 69 60 2
+TOP 2 81.33753608 63.8625342 90 N 64 4 3
+TOP 3 81.33753608 66.36253428 90 N 63 0 4
+TOP 4 81.33753608 68.86253436 90 N 59 0 5
+#
+# CMP 79
+CMP 17 60.86253512 79.86253522 90 N J5 B4B-XH-A ;0=2,1=7.0000,5=0
+PRP Case/Package 'None'
+PRP Check_prices 'https://www.snapeda.com/parts/B4B-XH-A/JST/view-part/?ref=eda'
+PRP Component_Type 'Standard'
+PRP Design_Item_ID 'B4B-XH-A'
+PRP MF 'JST Sales'
+PRP MP 'B4B-XH-A'
+PRP Pins '4'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/B4B-XH-A/JST/view-part/?ref=snap'
+PRP Source 'B4B-XH-A.SchLib'
+PRP Value ''
+TOP 0 60.3375349 76.1125351 90 N 76 6 1
+TOP 1 60.3375349 78.61253518 90 N 69 71 2
+TOP 2 60.3375349 81.11253526 90 N 49 0 3
+TOP 3 60.3375349 83.61253534 90 N 75 8 4
+#
+# CMP 80
+CMP 18 74.86253506 63.8625342 90 N J10 B5B-XH-A ;0=2,1=7.0000,5=0
+PRP Case/Package 'None'
+PRP Check_prices 'https://www.snapeda.com/parts/B5B-XH-A/JST+Sales+America+Inc./view-part/?ref=eda'
+PRP Component_Type 'Standard'
+PRP Design_Item_ID 'B5B-XH-A'
+PRP MF 'JST Sales'
+PRP MP 'B5B-XH-A'
+PRP Pins '5'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/B5B-XH-A/JST+Sales+America+Inc./view-part/?ref=snap'
+PRP Source 'B5B-XH-A.SchLib'
+PRP Value ''
+TOP 0 74.33753484 58.86253404 90 N 76 8 1
+TOP 1 74.33753484 61.36253412 90 N 69 63 2
+TOP 2 74.33753484 63.8625342 90 N 64 3 3
+TOP 3 74.33753484 66.36253428 90 N 63 3 4
+TOP 4 74.33753484 68.86253436 90 N 60 0 5
+#
+# CMP 81
+CMP 18 67.86253636 63.8625342 90 N J9 B5B-XH-A ;0=2,1=7.0000,5=0
+PRP Case/Package 'None'
+PRP Check_prices 'https://www.snapeda.com/parts/B5B-XH-A/JST+Sales+America+Inc./view-part/?ref=eda'
+PRP Component_Type 'Standard'
+PRP Design_Item_ID 'B5B-XH-A'
+PRP MF 'JST Sales'
+PRP MP 'B5B-XH-A'
+PRP Pins '5'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/B5B-XH-A/JST+Sales+America+Inc./view-part/?ref=snap'
+PRP Source 'B5B-XH-A.SchLib'
+PRP Value ''
+TOP 0 67.33753614 58.86253404 90 N 76 3 1
+TOP 1 67.33753614 61.36253412 90 N 69 59 2
+TOP 2 67.33753614 63.8625342 90 N 64 2 3
+TOP 3 67.33753614 66.36253428 90 N 63 4 4
+TOP 4 67.33753614 68.86253436 90 N 61 0 5
+#
+# CMP 82
+CMP 17 67.86253636 79.86253522 90 N J4 B4B-XH-A ;0=2,1=7.0000,5=0
+PRP Case/Package 'None'
+PRP Check_prices 'https://www.snapeda.com/parts/B4B-XH-A/JST/view-part/?ref=eda'
+PRP Component_Type 'Standard'
+PRP Design_Item_ID 'B4B-XH-A'
+PRP MF 'JST Sales'
+PRP MP 'B4B-XH-A'
+PRP Pins '4'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/B4B-XH-A/JST/view-part/?ref=snap'
+PRP Source 'B4B-XH-A.SchLib'
+PRP Value ''
+TOP 0 67.33753614 76.1125351 90 N 76 2 1
+TOP 1 67.33753614 78.61253518 90 N 69 56 2
+TOP 2 67.33753614 81.11253526 90 N 50 0 3
+TOP 3 67.33753614 83.61253534 90 N 75 9 4
+#
+# CMP 83
+CMP 18 60.86253512 63.8625342 90 N J8 B5B-XH-A ;0=2,1=7.0000,5=0
+PRP Case/Package 'None'
+PRP Check_prices 'https://www.snapeda.com/parts/B5B-XH-A/JST+Sales+America+Inc./view-part/?ref=eda'
+PRP Component_Type 'Standard'
+PRP Design_Item_ID 'B5B-XH-A'
+PRP MF 'JST Sales'
+PRP MP 'B5B-XH-A'
+PRP Pins '5'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/B5B-XH-A/JST+Sales+America+Inc./view-part/?ref=snap'
+PRP Source 'B5B-XH-A.SchLib'
+PRP Value ''
+TOP 0 60.3375349 58.86253404 90 N 76 5 1
+TOP 1 60.3375349 61.36253412 90 N 69 70 2
+TOP 2 60.3375349 63.8625342 90 N 64 0 3
+TOP 3 60.3375349 66.36253428 90 N 63 2 4
+TOP 4 60.3375349 68.86253436 90 N 62 0 5
+#
+# CMP 84
+CMP 17 74.86253506 79.86253522 90 N J3 B4B-XH-A ;0=2,1=7.0000,5=0
+PRP Case/Package 'None'
+PRP Check_prices 'https://www.snapeda.com/parts/B4B-XH-A/JST/view-part/?ref=eda'
+PRP Component_Type 'Standard'
+PRP Design_Item_ID 'B4B-XH-A'
+PRP MF 'JST Sales'
+PRP MP 'B4B-XH-A'
+PRP Pins '4'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/B4B-XH-A/JST/view-part/?ref=snap'
+PRP Source 'B4B-XH-A.SchLib'
+PRP Value ''
+TOP 0 74.33753484 76.1125351 90 N 76 4 1
+TOP 1 74.33753484 78.61253518 90 N 69 62 2
+TOP 2 74.33753484 81.11253526 90 N 51 0 3
+TOP 3 74.33753484 83.61253534 90 N 75 3 4
+#
+# CMP 85
+CMP 9 80.54664866 40.1607782 270 N J1 MM8130-2600 ;0=1,1=10.0000,5=0
+PRP Artikkelnr_Noca '55029011'
+PRP Assembly ''
+PRP Author 'rsk'
+PRP Component_Class 'Connectors'
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'N.A.'
+PRP ComponentLink2Description 'Supplier link'
+PRP ComponentLink2URL 'N.A.'
+PRP Footprint_Doc 'COAXIAL-SWF'
+PRP HelpURL 'http://www.murata.com/products/catalog/pdf/o33e.pdf'
+PRP LatestRevisionDate '2014-04-24'
+PRP Manufacturer 'Murata'
+PRP Manufacturer_Part_Number 'MM8130-2600'
+PRP Note 'N.A.'
+PRP Pad_Count '3'
+PRP Part_Number 'MM8130-2600'
+PRP Part_number_IPS '00000009955'
+PRP Part_number_Norautron 'N.A.'
+PRP PartId '100500400'
+PRP Published '2014-04-24'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'Mouser'
+PRP Supplier_Part_Number_1 '490-4981-1-ND'
+PRP Supplier_Part_Number_2 '81-MM8130-2600RA2'
+PRP Value 'MM8130-2600'
+TOP 0 79.38664844 40.1607782 270 N 10 2 1
+TOP 1 81.4966493 41.18577742 270 N 69 126 2
+TOP 2 81.4966493 39.13577898 270 N 69 113 2
+TOP 3 79.59664802 39.13577898 270 N 69 114 2
+TOP 4 79.59664802 41.18577742 270 N 69 112 2
+TOP 5 81.70664888 40.1607782 270 N 74 2 3
+#
+# CMP 86
+CMP 19 81.10000036 76.7999988 90 N DS1 LTST-C190AKT ;0=1,1=0.8000,5=0
+PRP Case/Package '0603'
+PRP Colour 'Orange'
+PRP Datasheet_URL 'http://datasheet.octopart.com/LTST-C190AKT-Lite-On-datasheet-11729267.pdf'
+PRP Datasheet_Version 'Jan-03'
+PRP Forward_Current '20mA'
+PRP Forward_Voltage '2.1V'
+PRP Illumination_Colour 'Orange'
+PRP Lens_Style 'Clear'
+PRP Luminous_Intensity '2mcd'
+PRP Manufacturer 'Lite-On'
+PRP Manufacturer_URL 'http://www.us.liteon.com/'
+PRP Max_Operating_Temperature '85°C'
+PRP Max_Power_Dissipation ''
+PRP Min_Operating_Temperature '-55°C'
+PRP Mounting_Technology 'SM'
+PRP Nominal_Vf '2.1V'
+PRP Package_Description '2-Pin Surface Mount Device, Body 1.6 x 0.8 mm'
+PRP Package_Quantity '3000'
+PRP Package_Reference 'LTST-C190AKT-2'
+PRP Packaging 'TapeandReel'
+PRP Pins '2'
+PRP Power ''
+PRP RoHS_Compliant 'True'
+PRP Viewing_Angle '130degrees'
+TOP 0 81.10000036 77.54999984 90 N 65 1 1
+TOP 1 81.10000036 76.04999776 270 N 69 36 2
+#
+# CMP 87
+CMP 28 18.39999876 17.30000096 270 N CR4 SMAJ12CA ;0=1,1=10.0000,5=0
+PRP Design_Item_ID 'SMAJ12CA'
+PRP Mfr_Name 'Littelfuse Inc'
+PRP RefDes ''
+PRP Source 'SMAJ12CA.SchLib'
+PRP Type ''
+TOP 0 18.39999876 15.59820096 180 N 5 4 1
+TOP 1 18.39999876 19.00180096 180 N 69 100 2
+#
+# CMP 88
+CMP 28 23.79999812 12.4000006 180 N CR3 SMAJ12CA ;0=1,1=10.0000,5=0
+PRP Design_Item_ID 'SMAJ12CA'
+PRP Mfr_Name 'Littelfuse Inc'
+PRP RefDes ''
+PRP Source 'SMAJ12CA.SchLib'
+PRP Type ''
+TOP 0 25.50179812 12.4000006 90 N 66 6 1
+TOP 1 22.09819812 12.4000006 90 N 5 6 2
+#
+# CMP 89
+CMP 28 31.5000005 12.7 180 N CR2 SMAJ12CA ;0=1,1=10.0000,5=0
+PRP Design_Item_ID 'SMAJ12CA'
+PRP Mfr_Name 'Littelfuse Inc'
+PRP RefDes ''
+PRP Source 'SMAJ12CA.SchLib'
+PRP Type ''
+TOP 0 33.2018005 12.7 90 N 69 39 1
+TOP 1 29.7982005 12.7 90 N 66 5 2
+#
+# CMP 90
+CMP 27 28.36999914 68.36499916 0 N CR1 B330A-13-F ;0=1,1=10.0000,5=0
+PRP Design_Item_ID 'B330A-13-F'
+PRP Mfr_Name 'Diodes Inc'
+PRP RefDes ''
+PRP Source 'B330A-13-F.SchLib'
+PRP Type ''
+TOP 0 26.16019914 68.36499916 0 N 67 0 1
+TOP 1 30.57979914 68.36499916 0 N 69 137 2
+#
+# CMP 91
+CMP 1 75.16253446 47.76253592 180 N C23 Capacitor_22_F_+/-40%_16V_0805 ;0=1,1=1.4500,5=0
+PRP Capacitor_Type ''
+PRP Case/Package '0805'
+PRP Max_Operating_Temperature '85°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mounting_Technology 'SMT'
+PRP Pins '2'
+PRP Ripple_Current ''
+PRP Ripple_Current_(AC) ''
+PRP RoHS_Compliant ''
+PRP Tolerance '5%'
+PRP Value '22µF'
+PRP Voltage_Rating '16V'
+TOP 0 76.0625352 47.76253592 90 N 69 37 1
+TOP 1 74.2725337 47.76253592 90 N 77 23 2
+#
+# CMP 92
+CMP 21 38.72639956 56.91519986 270 N C22 UCD0J102MNL1GS ;0=1,1=10.0000,5=0
+PRP Design_Item_ID 'UCD0J102MNL1GS'
+PRP Mfr_Name 'Nichicon'
+PRP RefDes ''
+PRP Source 'UCD0J102MNL1GS.SchLib'
+PRP Type ''
+TOP 0 38.72639956 53.51159986 270 N 76 16 1
+TOP 1 38.72639956 60.31879986 270 N 69 136 2
+#
+# CMP 93
+CMP 1 72.06253558 48.36253472 0 N C21 Capacitor_100_F_+/-20%_6.3V_0805 ;0=1,1=1.4500,5=0
+PRP Capacitor_Type ''
+PRP Case/Package '0805'
+PRP Max_Operating_Temperature '85°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mounting_Technology 'SMT'
+PRP Pins '2'
+PRP Ripple_Current ''
+PRP Ripple_Current_(AC) ''
+PRP RoHS_Compliant ''
+PRP Tolerance '10%'
+PRP Value '100µF'
+PRP Voltage_Rating '6.3V'
+TOP 0 71.16253484 48.36253472 270 N 69 46 1
+TOP 1 72.95253634 48.36253472 270 N 77 20 2
+#
+# CMP 94
+CMP 2 66.76253602 36.562538 180 N C16 100nF ;0=1,1=10.0000,5=0
+PRP Artikkelnr_Noca '20039200'
+PRP Assembly ''
+PRP Author 'rsk'
+PRP Component_Class 'Capacitors'
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'N.A.'
+PRP ComponentLink2Description 'Supplier link'
+PRP ComponentLink2URL 'N.A.'
+PRP Footprint_Doc '0402'
+PRP HelpURL 'N.A.'
+PRP LatestRevisionDate '2009-11-23'
+PRP Manufacturer 'N.A.'
+PRP Manufacturer_Part_Number 'N.A.'
+PRP Note '16V'
+PRP Pad_Count '2'
+PRP Part_Number 'C0402-100n'
+PRP Part_number_IPS '00000005296'
+PRP Part_number_Norautron 'N.A.'
+PRP PartId '100200184'
+PRP Published '2009-05-08'
+PRP Supplier_1 'N.A.'
+PRP Supplier_2 'N.A.'
+PRP Supplier_Part_Number_1 'N.A.'
+PRP Supplier_Part_Number_2 'N.A.'
+PRP Value '100nF'
+TOP 0 67.26253502 36.562538 90 N 77 37 1
+TOP 1 66.26253448 36.562538 90 N 69 143 2
+#
+# CMP 95
+CMP 2 82.4625351 40.86253448 270 N C15 1.2pF ;0=1,1=10.0000,5=0
+PRP Artikkelnr_Noca '20029157'
+PRP Assembly ''
+PRP Author 'rsk'
+PRP Component_Class 'Capacitors'
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'N.A.'
+PRP ComponentLink2Description 'Supplier link'
+PRP ComponentLink2URL 'N.A.'
+PRP Footprint_Doc '0402'
+PRP HelpURL 'N.A.'
+PRP LatestRevisionDate '2011-05-11'
+PRP Manufacturer 'N.A.'
+PRP Manufacturer_Part_Number 'N.A.'
+PRP Note '50V'
+PRP Pad_Count '2'
+PRP Part_Number 'C0402-1.2p'
+PRP Part_number_IPS '00000005410'
+PRP Part_number_Norautron 'N.A.'
+PRP PartId '100200119'
+PRP Published '2009-05-08'
+PRP Supplier_1 'N.A.'
+PRP Supplier_2 'N.A.'
+PRP Supplier_Part_Number_1 'N.A.'
+PRP Supplier_Part_Number_2 'N.A.'
+PRP Value '1.2pF'
+TOP 0 82.4625351 40.36253548 180 N 74 1 1
+TOP 1 82.4625351 41.36253602 180 N 69 125 2
+#
+# CMP 96
+CMP 3 77.26253534 39.66253434 90 N C14 N.C. ;0=1,1=10.0000,5=0
+PRP Artikkelnr_Noca 'N.A.'
+PRP Assembly 'Not mounted'
+PRP Author 'rsk'
+PRP Component_Class 'Capacitors'
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'N.A.'
+PRP ComponentLink2Description 'Supplier link'
+PRP ComponentLink2URL 'N.A.'
+PRP Footprint_Doc '0402'
+PRP HelpURL 'N.A.'
+PRP LatestRevisionDate '2009-05-08'
+PRP Manufacturer 'N.A.'
+PRP Manufacturer_Part_Number 'N.A.'
+PRP Note 'Chip Cap'
+PRP Pad_Count '2'
+PRP Part_Number 'C0402-N.C.'
+PRP Part_number_IPS 'N.A.'
+PRP Part_number_Norautron 'N.A.'
+PRP PartId '100200105'
+PRP Published '2009-05-08'
+PRP Supplier_1 'N.A.'
+PRP Supplier_2 'N.A.'
+PRP Supplier_Part_Number_1 'N.A.'
+PRP Supplier_Part_Number_2 'N.A.'
+PRP Value 'N.C.'
+TOP 0 77.26253534 40.16253334 0 N 10 0 1
+TOP 1 77.26253534 39.1625328 0 N 69 118 2
+#
+# CMP 97
+CMP 2 74.41280012 40.67839972 90 N C13 0.8pF ;0=1,1=10.0000,5=0
+PRP Artikkelnr_Noca '20029147'
+PRP Assembly ''
+PRP Author 'rsk'
+PRP Component_Class 'Capacitors'
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'https://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.ashx?la=en-us'
+PRP ComponentLink2Description 'Supplier link'
+PRP ComponentLink2URL 'N.A.'
+PRP Footprint_Doc '0402'
+PRP HelpURL 'N.A.'
+PRP LatestRevisionDate '2012-11-21'
+PRP Manufacturer 'Murata'
+PRP Manufacturer_Part_Number 'GRM1555C1HR80WA01D'
+PRP Note '50V'
+PRP Pad_Count '2'
+PRP Part_Number 'C0402-0.8p'
+PRP Part_number_IPS '00000007782'
+PRP Part_number_Norautron 'N.A.'
+PRP PartId '100200116'
+PRP Published '2009-05-08'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'N.A.'
+PRP Supplier_Part_Number_1 '490-6270-1-ND'
+PRP Supplier_Part_Number_2 'N.A.'
+PRP Value '0.8pF'
+TOP 0 74.41280012 41.17839872 0 N 69 115 1
+TOP 1 74.41280012 40.17839818 0 N 68 1 2
+#
+# CMP 98
+CMP 3 75.86253306 42.46253382 0 N C12 N.C. ;0=1,1=10.0000,5=0
+PRP Artikkelnr_Noca 'N.A.'
+PRP Assembly 'Not mounted'
+PRP Author 'rsk'
+PRP Component_Class 'Capacitors'
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'N.A.'
+PRP ComponentLink2Description 'Supplier link'
+PRP ComponentLink2URL 'N.A.'
+PRP Footprint_Doc '0402'
+PRP HelpURL 'N.A.'
+PRP LatestRevisionDate '2009-05-08'
+PRP Manufacturer 'N.A.'
+PRP Manufacturer_Part_Number 'N.A.'
+PRP Note 'Chip Cap'
+PRP Pad_Count '2'
+PRP Part_Number 'C0402-N.C.'
+PRP Part_number_IPS 'N.A.'
+PRP Part_number_Norautron 'N.A.'
+PRP PartId '100200105'
+PRP Published '2009-05-08'
+PRP Supplier_1 'N.A.'
+PRP Supplier_2 'N.A.'
+PRP Supplier_Part_Number_1 'N.A.'
+PRP Supplier_Part_Number_2 'N.A.'
+PRP Value 'N.C.'
+TOP 0 75.36253406 42.46253382 270 N 72 0 1
+TOP 1 76.3625346 42.46253382 270 N 69 111 2
+#
+# CMP 99
+CMP 2 63.1625356 37.76253306 0 N C11 12pF ;0=1,1=10.0000,5=0
+PRP Artikkelnr_Noca '20029159'
+PRP Assembly ''
+PRP Author 'rsk'
+PRP Component_Class 'Capacitors'
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'N.A.'
+PRP ComponentLink2Description 'Supplier link'
+PRP ComponentLink2URL 'N.A.'
+PRP Footprint_Doc '0402'
+PRP HelpURL 'N.A.'
+PRP LatestRevisionDate '2011-05-11'
+PRP Manufacturer 'N.A.'
+PRP Manufacturer_Part_Number 'N.A.'
+PRP Note '50V'
+PRP Pad_Count '2'
+PRP Part_Number 'C0402-12p'
+PRP Part_number_IPS '00000002398'
+PRP Part_number_Norautron 'N.A.'
+PRP PartId '100200137'
+PRP Published '2009-05-08'
+PRP Supplier_1 'N.A.'
+PRP Supplier_2 'N.A.'
+PRP Supplier_Part_Number_1 'N.A.'
+PRP Supplier_Part_Number_2 'N.A.'
+PRP Value '12pF'
+TOP 0 62.6625366 37.76253306 270 N 69 140 1
+TOP 1 63.66253714 37.76253306 270 N 41 1 2
+#
+# CMP 100
+CMP 2 75.86253306 43.46253436 0 N C10 100pF ;0=1,1=10.0000,5=0
+PRP Artikkelnr_Noca '20029135'
+PRP Assembly ''
+PRP Author 'rsk'
+PRP Component_Class 'Capacitors'
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'N.A.'
+PRP ComponentLink2Description 'Supplier link'
+PRP ComponentLink2URL 'N.A.'
+PRP Footprint_Doc '0402'
+PRP HelpURL 'N.A.'
+PRP LatestRevisionDate '2009-05-08'
+PRP Manufacturer 'N.A.'
+PRP Manufacturer_Part_Number 'N.A.'
+PRP Note '50V'
+PRP Pad_Count '2'
+PRP Part_Number 'C0402-100p'
+PRP Part_number_IPS '00000002361'
+PRP Part_number_Norautron 'N.A.'
+PRP PartId '100200148'
+PRP Published '2009-05-08'
+PRP Supplier_1 'N.A.'
+PRP Supplier_2 'N.A.'
+PRP Supplier_Part_Number_1 'N.A.'
+PRP Supplier_Part_Number_2 'N.A.'
+PRP Value '100pF'
+TOP 0 75.36253406 43.46253436 270 N 71 1 1
+TOP 1 76.3625346 43.46253436 270 N 69 53 2
+#
+# CMP 101
+CMP 1 64.60000034 45.50000044 0 N C9 Capacitor_22_F_+/-40%_16V_0805 ;0=1,1=1.4500,5=0
+PRP Capacitor_Type ''
+PRP Case/Package '0805'
+PRP Max_Operating_Temperature '85°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mounting_Technology 'SMT'
+PRP Pins '2'
+PRP Ripple_Current ''
+PRP Ripple_Current_(AC) ''
+PRP RoHS_Compliant ''
+PRP Tolerance '5%'
+PRP Value '22µF'
+PRP Voltage_Rating '16V'
+TOP 0 63.6999996 45.50000044 270 N 69 124 1
+TOP 1 65.4900011 45.50000044 270 N 77 10 2
+#
+# CMP 102
+CMP 2 78.86253468 45.96253444 90 N C8 12pF ;0=1,1=10.0000,5=0
+PRP Artikkelnr_Noca '20029159'
+PRP Assembly ''
+PRP Author 'rsk'
+PRP Component_Class 'Capacitors'
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'N.A.'
+PRP ComponentLink2Description 'Supplier link'
+PRP ComponentLink2URL 'N.A.'
+PRP Footprint_Doc '0402'
+PRP HelpURL 'N.A.'
+PRP LatestRevisionDate '2011-05-11'
+PRP Manufacturer 'N.A.'
+PRP Manufacturer_Part_Number 'N.A.'
+PRP Note '50V'
+PRP Pad_Count '2'
+PRP Part_Number 'C0402-12p'
+PRP Part_number_IPS '00000002398'
+PRP Part_number_Norautron 'N.A.'
+PRP PartId '100200137'
+PRP Published '2009-05-08'
+PRP Supplier_1 'N.A.'
+PRP Supplier_2 'N.A.'
+PRP Supplier_Part_Number_1 'N.A.'
+PRP Supplier_Part_Number_2 'N.A.'
+PRP Value '12pF'
+TOP 0 78.86253468 46.46253344 0 N 7 0 1
+TOP 1 78.86253468 45.4625329 0 N 69 51 2
+#
+# CMP 103
+CMP 1 64.70000014 44.0000009 0 N C7 Capacitor_100_F_+/-20%_6.3V_0805 ;0=1,1=1.4500,5=0
+PRP Capacitor_Type ''
+PRP Case/Package '0805'
+PRP Max_Operating_Temperature '85°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mounting_Technology 'SMT'
+PRP Pins '2'
+PRP Ripple_Current ''
+PRP Ripple_Current_(AC) ''
+PRP RoHS_Compliant ''
+PRP Tolerance '10%'
+PRP Value '100µF'
+PRP Voltage_Rating '6.3V'
+TOP 0 63.7999994 44.0000009 270 N 69 128 1
+TOP 1 65.5900009 44.0000009 270 N 77 13 2
+#
+# CMP 104
+CMP 2 64.86253474 42.76253576 180 N C6 100nF ;0=1,1=10.0000,5=0
+PRP Artikkelnr_Noca '20039200'
+PRP Assembly ''
+PRP Author 'rsk'
+PRP Component_Class 'Capacitors'
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'N.A.'
+PRP ComponentLink2Description 'Supplier link'
+PRP ComponentLink2URL 'N.A.'
+PRP Footprint_Doc '0402'
+PRP HelpURL 'N.A.'
+PRP LatestRevisionDate '2009-11-23'
+PRP Manufacturer 'N.A.'
+PRP Manufacturer_Part_Number 'N.A.'
+PRP Note '16V'
+PRP Pad_Count '2'
+PRP Part_Number 'C0402-100n'
+PRP Part_number_IPS '00000005296'
+PRP Part_number_Norautron 'N.A.'
+PRP PartId '100200184'
+PRP Published '2009-05-08'
+PRP Supplier_1 'N.A.'
+PRP Supplier_2 'N.A.'
+PRP Supplier_Part_Number_1 'N.A.'
+PRP Supplier_Part_Number_2 'N.A.'
+PRP Value '100nF'
+TOP 0 65.36253374 42.76253576 90 N 73 0 1
+TOP 1 64.3625332 42.76253576 90 N 69 127 2
+#
+# CMP 105
+CMP 2 71.56253658 45.28753452 270 N C5 12pF ;0=1,1=10.0000,5=0
+PRP Artikkelnr_Noca '20029159'
+PRP Assembly ''
+PRP Author 'rsk'
+PRP Component_Class 'Capacitors'
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'N.A.'
+PRP ComponentLink2Description 'Supplier link'
+PRP ComponentLink2URL 'N.A.'
+PRP Footprint_Doc '0402'
+PRP HelpURL 'N.A.'
+PRP LatestRevisionDate '2011-05-11'
+PRP Manufacturer 'N.A.'
+PRP Manufacturer_Part_Number 'N.A.'
+PRP Note '50V'
+PRP Pad_Count '2'
+PRP Part_Number 'C0402-12p'
+PRP Part_number_IPS '00000002398'
+PRP Part_number_Norautron 'N.A.'
+PRP PartId '100200137'
+PRP Published '2009-05-08'
+PRP Supplier_1 'N.A.'
+PRP Supplier_2 'N.A.'
+PRP Supplier_Part_Number_1 'N.A.'
+PRP Supplier_Part_Number_2 'N.A.'
+PRP Value '12pF'
+TOP 0 71.56253658 44.78753552 180 N 16 0 1
+TOP 1 71.56253658 45.78753606 180 N 69 120 2
+#
+# CMP 106
+CMP 2 72.46253478 45.28753452 270 N C4 12pF ;0=1,1=10.0000,5=0
+PRP Artikkelnr_Noca '20029159'
+PRP Assembly ''
+PRP Author 'rsk'
+PRP Component_Class 'Capacitors'
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'N.A.'
+PRP ComponentLink2Description 'Supplier link'
+PRP ComponentLink2URL 'N.A.'
+PRP Footprint_Doc '0402'
+PRP HelpURL 'N.A.'
+PRP LatestRevisionDate '2011-05-11'
+PRP Manufacturer 'N.A.'
+PRP Manufacturer_Part_Number 'N.A.'
+PRP Note '50V'
+PRP Pad_Count '2'
+PRP Part_Number 'C0402-12p'
+PRP Part_number_IPS '00000002398'
+PRP Part_number_Norautron 'N.A.'
+PRP PartId '100200137'
+PRP Published '2009-05-08'
+PRP Supplier_1 'N.A.'
+PRP Supplier_2 'N.A.'
+PRP Supplier_Part_Number_1 'N.A.'
+PRP Supplier_Part_Number_2 'N.A.'
+PRP Value '12pF'
+TOP 0 72.46253478 44.78753552 180 N 17 0 1
+TOP 1 72.46253478 45.78753606 180 N 69 52 2
+#
+# CMP 107
+CMP 2 64.86253474 40.86253448 270 N C3 12pF ;0=1,1=10.0000,5=0
+PRP Artikkelnr_Noca '20029159'
+PRP Assembly ''
+PRP Author 'rsk'
+PRP Component_Class 'Capacitors'
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'N.A.'
+PRP ComponentLink2Description 'Supplier link'
+PRP ComponentLink2URL 'N.A.'
+PRP Footprint_Doc '0402'
+PRP HelpURL 'N.A.'
+PRP LatestRevisionDate '2011-05-11'
+PRP Manufacturer 'N.A.'
+PRP Manufacturer_Part_Number 'N.A.'
+PRP Note '50V'
+PRP Pad_Count '2'
+PRP Part_Number 'C0402-12p'
+PRP Part_number_IPS '00000002398'
+PRP Part_number_Norautron 'N.A.'
+PRP PartId '100200137'
+PRP Published '2009-05-08'
+PRP Supplier_1 'N.A.'
+PRP Supplier_2 'N.A.'
+PRP Supplier_Part_Number_1 'N.A.'
+PRP Supplier_Part_Number_2 'N.A.'
+PRP Value '12pF'
+TOP 0 64.86253474 40.36253548 180 N 69 139 1
+TOP 1 64.86253474 41.36253602 180 N 42 1 2
+#
+# CMP 108
+CMP 2 75.26253426 45.86253464 270 N C2 12pF ;0=1,1=10.0000,5=0
+PRP Artikkelnr_Noca '20029159'
+PRP Assembly ''
+PRP Author 'rsk'
+PRP Component_Class 'Capacitors'
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'N.A.'
+PRP ComponentLink2Description 'Supplier link'
+PRP ComponentLink2URL 'N.A.'
+PRP Footprint_Doc '0402'
+PRP HelpURL 'N.A.'
+PRP LatestRevisionDate '2011-05-11'
+PRP Manufacturer 'N.A.'
+PRP Manufacturer_Part_Number 'N.A.'
+PRP Note '50V'
+PRP Pad_Count '2'
+PRP Part_Number 'C0402-12p'
+PRP Part_number_IPS '00000002398'
+PRP Part_number_Norautron 'N.A.'
+PRP PartId '100200137'
+PRP Published '2009-05-08'
+PRP Supplier_1 'N.A.'
+PRP Supplier_2 'N.A.'
+PRP Supplier_Part_Number_1 'N.A.'
+PRP Supplier_Part_Number_2 'N.A.'
+PRP Value '12pF'
+TOP 0 75.26253426 45.36253564 180 N 6 0 1
+TOP 1 75.26253426 46.36253618 180 N 69 44 2
+#
+# CMP 109
+CMP 4 68.76253456 48.16253512 90 N C1 1.0_F ;0=1,1=10.0000,5=0
+PRP Artikkelnr_Noca '20039282'
+PRP Assembly ''
+PRP Author 'rsk'
+PRP Component_Class 'Capacitors'
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'N.A.'
+PRP ComponentLink2Description 'Supplier link'
+PRP ComponentLink2URL 'N.A.'
+PRP Footprint_Doc '0603'
+PRP HelpURL 'N.A.'
+PRP LatestRevisionDate '2013-06-05'
+PRP Manufacturer 'N.A.'
+PRP Manufacturer_Part_Number 'N.A.'
+PRP Note '16V'
+PRP Pad_Count '2'
+PRP Part_Number 'C0603-1µ0'
+PRP Part_number_IPS '00000000616'
+PRP Part_number_Norautron 'N.A.'
+PRP PartId '100200271'
+PRP Published '2009-05-08'
+PRP Supplier_1 'N.A.'
+PRP Supplier_2 'N.A.'
+PRP Supplier_Part_Number_1 'N.A.'
+PRP Supplier_Part_Number_2 'N.A.'
+PRP Value '1.0µF'
+TOP 0 68.76253456 48.83753504 0 N 69 48 1
+TOP 1 68.76253456 47.4875352 0 N 70 0 2
+#

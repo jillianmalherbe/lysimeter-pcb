@@ -1,0 +1,20 @@
+Update Managed Component C22 From CMP-001-00083-1[UCD0J102MNL1GS] To CMP-001-00083-1[UCD0J102MNL1GS] in sheet4_power.SchDoc
+Update Managed Component C26 From CMP-001-00126-1[C1210C107M4PACTU] To CMP-001-00126-1[C1210C107M4PACTU] in sheet4_power.SchDoc
+Update Managed Component C27 From CMP-001-00126-1[C1210C107M4PACTU] To CMP-001-00126-1[C1210C107M4PACTU] in sheet4_power.SchDoc
+Update Managed Component C28 From CMP-001-00054-4[Capacitor 100µF +/-20% 6.3V 0805] To CMP-001-00054-4[Capacitor 100µF +/-20% 6.3V 0805] in sheet4_power.SchDoc
+Update Managed Component C29 From CMP-001-00054-4[Capacitor 100µF +/-20% 6.3V 0805] To CMP-001-00054-4[Capacitor 100µF +/-20% 6.3V 0805] in sheet4_power.SchDoc
+Update Managed Component C30 From CMP-001-00081-4[Capacitor 22µF +/-40% 16V 0805] To CMP-001-00081-4[Capacitor 22µF +/-40% 16V 0805] in sheet4_power.SchDoc
+Replace Part C31 C0603-10µ in C:\Users\Public\Documents\Altium\global_pcb\sheet4_power.SchDoc with C0603-10µ from pca10040.IntLib
+Replace Part C32 C0603-4µ7-10V-X7S in C:\Users\Public\Documents\Altium\global_pcb\sheet4_power.SchDoc with C0603-4µ7-10V-X7S from pca10040.IntLib
+Update Managed Component C37 From CMP-001-00016-6[Capacitor 10 uF +/- 10% 16 V 1206] To CMP-001-00016-6[Capacitor 10 uF +/- 10% 16 V 1206] in sheet4_power.SchDoc
+Update Managed Component C38 From CMP-001-00080-4[Capacitor 4.7µF +/-40% 25V 0805] To CMP-001-00080-4[Capacitor 4.7µF +/-40% 25V 0805] in sheet4_power.SchDoc
+Update Managed Component C39 From CMP-001-00006-6[Capacitor 1 uF +/- 10% 25 V 1206] To CMP-001-00006-6[Capacitor 1 uF +/- 10% 25 V 1206] in sheet4_power.SchDoc
+Update Managed Component CR1 From CMP-045-000000-1[B330A-13-F] To CMP-045-000000-1[B330A-13-F] in sheet4_power.SchDoc
+Update Managed Component DS1 From CMP-007-00021-2[LTST-C190AKT] To CMP-007-00021-2[LTST-C190AKT] in sheet4_power.SchDoc
+Update Managed Component J17 From CMP-002-00071-2[PJ-102BH] To CMP-002-00071-2[PJ-102BH] in sheet4_power.SchDoc
+Update Managed Component R4 From CMP-009-00166-3[Resistor 2K2  +/-5 % 0402 63 mW] To CMP-009-00166-3[Resistor 2K2  +/-5 % 0402 63 mW] in sheet4_power.SchDoc
+Replace Part TP2 TP_SMD_Ø1.0MM in C:\Users\Public\Documents\Altium\global_pcb\sheet4_power.SchDoc with TP_SMD_Ø1.0MM from pca10040.IntLib
+Replace Part TP3 TP_SMD_Ø1.0MM in C:\Users\Public\Documents\Altium\global_pcb\sheet4_power.SchDoc with TP_SMD_Ø1.0MM from pca10040.IntLib
+Replace Part TP4 TP_SMD_Ø1.0MM in C:\Users\Public\Documents\Altium\global_pcb\sheet4_power.SchDoc with TP_SMD_Ø1.0MM from pca10040.IntLib
+Update Managed Component U3 From CMP-035-000000-1[LM2576WU] To CMP-035-000000-1[LM2576WU] in sheet4_power.SchDoc
+Update Managed Component U4 From CMP-042-000001-1[IHLE5050FHER101M5A] To CMP-042-000001-1[IHLE5050FHER101M5A] in sheet4_power.SchDoc

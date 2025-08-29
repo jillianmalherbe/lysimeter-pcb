@@ -1,0 +1,84 @@
+Added Component: Designator=J13(CONN_S5B-ZR-SM4A-TF_JST)
+Add component (AddParameter): Name = "Design Item ID"; Value = "S5B-ZR-SM4A-TF LF SN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "JST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "S5B-ZR-SM4A-TFLFSN.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Component: Designator=J14(CONN_S5B-ZR-SM4A-TF_JST)
+Add component (AddParameter): Name = "Design Item ID"; Value = "S5B-ZR-SM4A-TF LF SN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "JST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "S5B-ZR-SM4A-TFLFSN.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Component: Designator=J15(CONN_S5B-ZR-SM4A-TF_JST)
+Add component (AddParameter): Name = "Design Item ID"; Value = "S5B-ZR-SM4A-TF LF SN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "JST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "S5B-ZR-SM4A-TFLFSN.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Component: Designator=J16(CONN_S5B-ZR-SM4A-TF_JST)
+Add component (AddParameter): Name = "Design Item ID"; Value = "S5B-ZR-SM4A-TF LF SN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "JST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "S5B-ZR-SM4A-TFLFSN.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Component: Designator=ST1(PTH-M2D5X5)
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=ST2(PTH-M2D5X5)
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=ST3(PTH-M2D5X5)
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=ST4(PTH-M2D5X5)
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J13-1
+Added Pin To Net: NetName=RS485_B Pin=J13-2
+Added Pin To Net: NetName=RS485_A Pin=J13-3
+Added Pin To Net: NetName=+12 Pin=J13-4
+Added Pin To Net: NetName=GND Pin=J13-5
+Added Pin To Net: NetName=GND Pin=J14-1
+Added Pin To Net: NetName=RS485_B Pin=J14-2
+Added Pin To Net: NetName=RS485_A Pin=J14-3
+Added Pin To Net: NetName=+12 Pin=J14-4
+Added Pin To Net: NetName=GND Pin=J14-5
+Added Pin To Net: NetName=GND Pin=J15-1
+Added Pin To Net: NetName=RS485_B Pin=J15-2
+Added Pin To Net: NetName=RS485_A Pin=J15-3
+Added Pin To Net: NetName=+12 Pin=J15-4
+Added Pin To Net: NetName=GND Pin=J15-5
+Added Pin To Net: NetName=GND Pin=J16-1
+Added Pin To Net: NetName=RS485_B Pin=J16-2
+Added Pin To Net: NetName=RS485_A Pin=J16-3
+Added Pin To Net: NetName=+12 Pin=J16-4
+Added Pin To Net: NetName=GND Pin=J16-5
+Added Pin To Net: NetName=GND Pin=ST1-1
+Added Pin To Net: NetName=GND Pin=ST2-1
+Added Pin To Net: NetName=GND Pin=ST3-1
+Added Pin To Net: NetName=GND Pin=ST4-1
+Added Member To Class: ClassName=sheet2_connectors Member=Component J13 S5B-ZR-SM4A-TF LF SN
+Added Member To Class: ClassName=sheet2_connectors Member=Component J14 S5B-ZR-SM4A-TF LF SN
+Added Member To Class: ClassName=sheet2_connectors Member=Component J15 S5B-ZR-SM4A-TF LF SN
+Added Member To Class: ClassName=sheet2_connectors Member=Component J16 S5B-ZR-SM4A-TF LF SN
+Added Member To Class: ClassName=sheet1_mcu Member=Component ST1 PTH-M2D5X5
+Added Member To Class: ClassName=sheet1_mcu Member=Component ST2 PTH-M2D5X5
+Added Member To Class: ClassName=sheet1_mcu Member=Component ST3 PTH-M2D5X5
+Added Member To Class: ClassName=sheet1_mcu Member=Component ST4 PTH-M2D5X5

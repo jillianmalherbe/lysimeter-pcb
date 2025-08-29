@@ -1,0 +1,72 @@
+Change Component DesignItemId : Designator=J17 Old DesignItemId=CMP-002-00071-1 New DesignItemId=CMP-002-00071-2
+Change Component DesignItemId : Designator=R10 Old DesignItemId=CMP-009-00143-3 New DesignItemId=CMP-009-00143-4
+Change Component DesignItemId : Designator=R11 Old DesignItemId=CMP-009-00143-3 New DesignItemId=CMP-009-00143-4
+Change Component DesignItemId : Designator=R12 Old DesignItemId=CMP-009-00143-3 New DesignItemId=CMP-009-00143-4
+Change Component DesignItemId : Designator=R13 Old DesignItemId=CMP-009-00143-3 New DesignItemId=CMP-009-00143-4
+Change Component Footprint: Designator=J17 Old Footprint=CUI_PJ-102BH New Footprint=CUI_PJ-102BH
+Change Component Comment : Designator=C13 Old Comment= New Comment=0.8pF
+Change Component Comment : Designator=C15 Old Comment= New Comment=1.2pF
+Change Component Comment : Designator=L3 Old Comment= New Comment=3.9nH
+Change Component Comment : Designator=L2 Old Comment= New Comment=10µH
+Change Component Comment : Designator=C2 Old Comment= New Comment=12pF
+Change Component Comment : Designator=C3 Old Comment= New Comment=12pF
+Change Component Comment : Designator=C4 Old Comment= New Comment=12pF
+Change Component Comment : Designator=C5 Old Comment= New Comment=12pF
+Change Component Comment : Designator=C8 Old Comment= New Comment=12pF
+Change Component Comment : Designator=C11 Old Comment= New Comment=12pF
+Change Component Comment : Designator=X2 Old Comment= New Comment=32.768kHz
+Change Component Comment : Designator=X1 Old Comment= New Comment=32MHz
+Change Component Comment : Designator=C16 Old Comment= New Comment=100nF
+Change Component Comment : Designator=C10 Old Comment= New Comment=100pF
+Change Component Comment : Designator=J1 Old Comment= New Comment=MM8130-2600
+Change Component Comment : Designator=C12 Old Comment= New Comment=N.C.
+Change Component Comment : Designator=C14 Old Comment= New Comment=N.C.
+Change Component Comment : Designator=U1 Old Comment= New Comment=nRF52832-QFAAG0
+Change Component Comment : Designator=P1 Old Comment= New Comment=Pin Header 2x5, 1.27mm
+Change Component Comment : Designator=TP1 Old Comment= New Comment=Ø1.0mm,SMD
+Change Component Comment : Designator=TP2 Old Comment= New Comment=Ø1.0mm,SMD
+Change Component Comment : Designator=TP3 Old Comment= New Comment=Ø1.0mm,SMD
+Change Component Comment : Designator=TP4 Old Comment= New Comment=Ø1.0mm,SMD
+Change Component Comment : Designator=TP5 Old Comment= New Comment=Ø1.0mm,SMD
+Change Managed Component Library Link : Designator=J17 Old VaultGUID=A974E7B8-86B8-4B3D-8C34-56F97AD8B533 New VaultGUID=A974E7B8-86B8-4B3D-8C34-56F97AD8B533 Old ItemGUID=820DA8D5-6CD5-4400-B275-3F15F444DB36 New ItemGUID=820DA8D5-6CD5-4400-B275-3F15F444DB36 Old RevisionGUID=6E54F7EF-069E-4B62-A439-93261C7CC2DD New RevisionGUID=fc7369a1-e5c3-404c-aeec-c284e44b696f
+Change Managed Component Library Link : Designator=R10 Old VaultGUID=A974E7B8-86B8-4B3D-8C34-56F97AD8B533 New VaultGUID=A974E7B8-86B8-4B3D-8C34-56F97AD8B533 Old ItemGUID=58E556F8-DE2C-450A-974F-725A0C862191 New ItemGUID=58E556F8-DE2C-450A-974F-725A0C862191 Old RevisionGUID=7D51F2C8-BB1E-4F8E-B02F-0C5A442D1434 New RevisionGUID=2adc9078-2130-48eb-b9dc-a9768fdd19c8
+Change Managed Component Library Link : Designator=R11 Old VaultGUID=A974E7B8-86B8-4B3D-8C34-56F97AD8B533 New VaultGUID=A974E7B8-86B8-4B3D-8C34-56F97AD8B533 Old ItemGUID=58E556F8-DE2C-450A-974F-725A0C862191 New ItemGUID=58E556F8-DE2C-450A-974F-725A0C862191 Old RevisionGUID=7D51F2C8-BB1E-4F8E-B02F-0C5A442D1434 New RevisionGUID=2adc9078-2130-48eb-b9dc-a9768fdd19c8
+Change Managed Component Library Link : Designator=R12 Old VaultGUID=A974E7B8-86B8-4B3D-8C34-56F97AD8B533 New VaultGUID=A974E7B8-86B8-4B3D-8C34-56F97AD8B533 Old ItemGUID=58E556F8-DE2C-450A-974F-725A0C862191 New ItemGUID=58E556F8-DE2C-450A-974F-725A0C862191 Old RevisionGUID=7D51F2C8-BB1E-4F8E-B02F-0C5A442D1434 New RevisionGUID=2adc9078-2130-48eb-b9dc-a9768fdd19c8
+Change Managed Component Library Link : Designator=R13 Old VaultGUID=A974E7B8-86B8-4B3D-8C34-56F97AD8B533 New VaultGUID=A974E7B8-86B8-4B3D-8C34-56F97AD8B533 Old ItemGUID=58E556F8-DE2C-450A-974F-725A0C862191 New ItemGUID=58E556F8-DE2C-450A-974F-725A0C862191 Old RevisionGUID=7D51F2C8-BB1E-4F8E-B02F-0C5A442D1434 New RevisionGUID=2adc9078-2130-48eb-b9dc-a9768fdd19c8
+Change component parameters: Designator = "C26" ("C26"); Footprint = "CAPC350280_280N_KEM"; UniqueID = "\ABKOSZXI" ("\ABKOSZXI")
+Change component parameters (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://content.kemet.com/datasheets/KEM_C1006_X5R_SMD.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Design Item ID"; Value = "C1210C107M4PACTU"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Kemet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "C1210C107M4PACTU"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Source"; Value = "C1210C107M4PACTU.SchLib"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C27" ("C27"); Footprint = "CAPC350280_280N_KEM"; UniqueID = "\QGTRQOBY" ("\QGTRQOBY")
+Change component parameters (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://content.kemet.com/datasheets/KEM_C1006_X5R_SMD.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Design Item ID"; Value = "C1210C107M4PACTU"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Kemet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "C1210C107M4PACTU"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Source"; Value = "C1210C107M4PACTU.SchLib"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "J17" ("J17"); Footprint = "CUI_PJ-102BH"; UniqueID = "\QKFMTFGK" ("\QKFMTFGK")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/PJ-102BH/Same+Sky/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Connector Type"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Design Item ID"; Value = "PJ-102BH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Gender"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Current Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Same Sky"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "PJ-102BH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pins"; Value = "3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/PJ-102BH/Same+Sky/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Source"; Value = "PJ-102BH.SchLib"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"

@@ -1,0 +1,40 @@
+Replace Part C1 C0603-1µ0 in C:\Users\Public\Documents\Altium\global_pcb\sheet1_mcu.SchDoc with C0603-1µ0 from pca10040.IntLib
+Replace Part C2 C0402-12p in C:\Users\Public\Documents\Altium\global_pcb\sheet1_mcu.SchDoc with C0402-12p from pca10040.IntLib
+Replace Part C3 C0402-12p in C:\Users\Public\Documents\Altium\global_pcb\sheet1_mcu.SchDoc with C0402-12p from pca10040.IntLib
+Replace Part C4 C0402-12p in C:\Users\Public\Documents\Altium\global_pcb\sheet1_mcu.SchDoc with C0402-12p from pca10040.IntLib
+Replace Part C5 C0402-12p in C:\Users\Public\Documents\Altium\global_pcb\sheet1_mcu.SchDoc with C0402-12p from pca10040.IntLib
+Replace Part C6 C0402-100n in C:\Users\Public\Documents\Altium\global_pcb\sheet1_mcu.SchDoc with C0402-100n from pca10040.IntLib
+Update Managed Component C7 From CMP-001-00054-4[Capacitor 100µF +/-20% 6.3V 0805] To CMP-001-00054-4[Capacitor 100µF +/-20% 6.3V 0805] in sheet1_mcu.SchDoc
+Replace Part C8 C0402-12p in C:\Users\Public\Documents\Altium\global_pcb\sheet1_mcu.SchDoc with C0402-12p from pca10040.IntLib
+Update Managed Component C9 From CMP-001-00081-4[Capacitor 22µF +/-40% 16V 0805] To CMP-001-00081-4[Capacitor 22µF +/-40% 16V 0805] in sheet1_mcu.SchDoc
+Replace Part C10 C0402-100p in C:\Users\Public\Documents\Altium\global_pcb\sheet1_mcu.SchDoc with C0402-100p from pca10040.IntLib
+Replace Part C11 C0402-12p in C:\Users\Public\Documents\Altium\global_pcb\sheet1_mcu.SchDoc with C0402-12p from pca10040.IntLib
+Replace Part C12 C0402-N.C. in C:\Users\Public\Documents\Altium\global_pcb\sheet1_mcu.SchDoc with C0402-N.C. from pca10040.IntLib
+Replace Part C13 C0402-0.8p in C:\Users\Public\Documents\Altium\global_pcb\sheet1_mcu.SchDoc with C0402-0.8p from pca10040.IntLib
+Replace Part C14 C0402-N.C. in C:\Users\Public\Documents\Altium\global_pcb\sheet1_mcu.SchDoc with C0402-N.C. from pca10040.IntLib
+Replace Part C15 C0402-1.2p in C:\Users\Public\Documents\Altium\global_pcb\sheet1_mcu.SchDoc with C0402-1.2p from pca10040.IntLib
+Replace Part C16 C0402-100n in C:\Users\Public\Documents\Altium\global_pcb\sheet1_mcu.SchDoc with C0402-100n from pca10040.IntLib
+Replace Part C17 C0603-10µ in C:\Users\Public\Documents\Altium\global_pcb\sheet1_mcu.SchDoc with C0603-10µ from pca10040.IntLib
+Replace Part C18 C0603-4µ7-10V-X7S in C:\Users\Public\Documents\Altium\global_pcb\sheet1_mcu.SchDoc with C0603-4µ7-10V-X7S from pca10040.IntLib
+Update Managed Component C19 From CMP-001-00018-6[Capacitor 100 nF +/-10% 50 V 0805] To CMP-001-00018-6[Capacitor 100 nF +/-10% 50 V 0805] in sheet1_mcu.SchDoc
+Update Managed Component C20 From CMP-001-00018-6[Capacitor 100 nF +/-10% 50 V 0805] To CMP-001-00018-6[Capacitor 100 nF +/-10% 50 V 0805] in sheet1_mcu.SchDoc
+Update Managed Component C21 From CMP-001-00054-4[Capacitor 100µF +/-20% 6.3V 0805] To CMP-001-00054-4[Capacitor 100µF +/-20% 6.3V 0805] in sheet1_mcu.SchDoc
+Update Managed Component C23 From CMP-001-00081-4[Capacitor 22µF +/-40% 16V 0805] To CMP-001-00081-4[Capacitor 22µF +/-40% 16V 0805] in sheet1_mcu.SchDoc
+Replace Part C24 C0603-10µ in C:\Users\Public\Documents\Altium\global_pcb\sheet1_mcu.SchDoc with C0603-10µ from pca10040.IntLib
+Replace Part C25 C0603-4µ7-10V-X7S in C:\Users\Public\Documents\Altium\global_pcb\sheet1_mcu.SchDoc with C0603-4µ7-10V-X7S from pca10040.IntLib
+Update Managed Component C50 From CMP-001-00054-4[Capacitor 100µF +/-20% 6.3V 0805] To CMP-001-00054-4[Capacitor 100µF +/-20% 6.3V 0805] in sheet1_mcu.SchDoc
+Update Managed Component C51 From CMP-001-00081-4[Capacitor 22µF +/-40% 16V 0805] To CMP-001-00081-4[Capacitor 22µF +/-40% 16V 0805] in sheet1_mcu.SchDoc
+Replace Part C52 C0603-10µ in C:\Users\Public\Documents\Altium\global_pcb\sheet1_mcu.SchDoc with C0603-10µ from pca10040.IntLib
+Replace Part C53 C0603-4µ7-10V-X7S in C:\Users\Public\Documents\Altium\global_pcb\sheet1_mcu.SchDoc with C0603-4µ7-10V-X7S from pca10040.IntLib
+Replace Part J1 MM8130-2600 in C:\Users\Public\Documents\Altium\global_pcb\sheet1_mcu.SchDoc with MM8130-2600 from pca10040.IntLib
+Replace Part L1 L0402-15n in C:\Users\Public\Documents\Altium\global_pcb\sheet1_mcu.SchDoc with L0402-15n from pca10040.IntLib
+Replace Part L2 L0603-10µ in C:\Users\Public\Documents\Altium\global_pcb\sheet1_mcu.SchDoc with L0603-10µ from pca10040.IntLib
+Replace Part L3 L0402-3n9 in C:\Users\Public\Documents\Altium\global_pcb\sheet1_mcu.SchDoc with L0402-3n9 from pca10040.IntLib
+Update Managed Component ST1 From CMP-00028-00004-2[PTH-M2D5X5] To CMP-00028-00004-2[PTH-M2D5X5] in sheet1_mcu.SchDoc
+Update Managed Component ST2 From CMP-00028-00004-2[PTH-M2D5X5] To CMP-00028-00004-2[PTH-M2D5X5] in sheet1_mcu.SchDoc
+Update Managed Component ST3 From CMP-00028-00004-2[PTH-M2D5X5] To CMP-00028-00004-2[PTH-M2D5X5] in sheet1_mcu.SchDoc
+Update Managed Component ST4 From CMP-00028-00004-2[PTH-M2D5X5] To CMP-00028-00004-2[PTH-M2D5X5] in sheet1_mcu.SchDoc
+Replace Part TP1 TP_SMD_Ø1.0MM in C:\Users\Public\Documents\Altium\global_pcb\sheet1_mcu.SchDoc with TP_SMD_Ø1.0MM from pca10040.IntLib
+Replace Part U1 nRF52832-QFAAG0 in C:\Users\Public\Documents\Altium\global_pcb\sheet1_mcu.SchDoc with nRF52832-QFAAG0 from pca10040.IntLib
+Replace Part X1 XTAL_SMD2016_32MHz_8pF_Epson in C:\Users\Public\Documents\Altium\global_pcb\sheet1_mcu.SchDoc with XTAL_SMD2016_32MHz_8pF_Epson from pca10040.IntLib
+Replace Part X2 XTAL_SMD3215_32.768kHz_9pF_Epson in C:\Users\Public\Documents\Altium\global_pcb\sheet1_mcu.SchDoc with XTAL_SMD3215_32.768kHz_9pF_Epson from pca10040.IntLib

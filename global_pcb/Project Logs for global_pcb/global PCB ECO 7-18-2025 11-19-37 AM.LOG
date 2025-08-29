@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=NetCR1_1 Pin=U4-1
+Removed Pin From Net: NetName=GND Pin=U4-2
+Removed Pin From Net: NetName=+5 Pin=U4-3
+Removed Pin From Net: NetName=GND Pin=U4-4
+Removed Member From Class: ClassName=sheet4_power Member=U4
+Added Component: Designator=L4(MWSA1206S-101MT-Footprint-1)
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current Rating"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Self Resonant Frequency"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100µH"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetCR1_1 Pin=L4-1
+Added Pin To Net: NetName=+5 Pin=L4-2
+Added Member To Class: ClassName=sheet4_power Member=Component L4 MWSA1206S-101MT
